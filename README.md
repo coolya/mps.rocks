@@ -43,4 +43,4 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
 
 ## Contributing
 
- Your contributions are always welcome! Please take a look at the contribution guidelines first.
+ Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/coolya/mps.rocks/blob/master/CONTRIBUTING) first.
