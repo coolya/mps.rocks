@@ -1,26 +1,25 @@
 site_name: 'MPS Rocks'
-site_url: 'https://mps.rocks'
+site_url: 'http://mps.rocks'
 site_description: 'A curated list of awesome MPS extensions/libraries, software and resources'
 site_author: 'Kolja Dummann'
 repo_name: 'coolya/mps.rocks'
 repo_url: 'https://github.com/coolya/mps.rocks'
+edit_uri: ''
 theme:
   name: 'material'
   palette:
     primary: 'green'
     accent: 'amber'
-extra:
   feature:
     tabs: false
+extra:
   social:
     - type: 'github'
-      link: 'https://github.com/vinta'
+      link: 'https://github.com/coolya'
     - type: 'twitter'
-      link: 'https://twitter.com/vinta'
-    - type: 'linkedin'
-      link: 'https://www.linkedin.com/in/vinta'
+      link: 'https://twitter.com/dumdidum'
 google_analytics:
   - 'UA-117084171-1'
   - 'auto'
 pages:
-  - "Life is short, you need Python.": "index.md"
+  - "Get yourself some MPS.": "index.md"
