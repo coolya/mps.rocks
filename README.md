@@ -14,6 +14,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
     - [PlantUML](https://github.com/vjramirez/PlantUML) - Language for PlantUML models, also useful to generate PlantUML diagrams from custom DSL.
     - [Simple Generator Editors](https://github.com/coolya/mps-generator-editors) - Simplified editors to increase readability of generators.
     - [Text Generator Plugin](https://github.com/DSLFoundry/mps-plaintextgen) - Alternative Textgen for JetBrains MPS using the standard model to model generation mechanisms.
+    - [Hardella IDE](https://hardella.com/en/?utm_content=bufferc3f54&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - Smart programming environment for PLC (61131 ST & Co).
 
 - [Build with MPS](#build-with-mps)
     - [FormatsDSL](https://github.com/ftomassetti/FormatsDSL) - A DSL to describe formats and generate loaders
