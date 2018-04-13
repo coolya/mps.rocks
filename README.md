@@ -18,6 +18,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
 
 - [Build with MPS](#build-with-mps)
     - [FormatsDSL](https://github.com/ftomassetti/FormatsDSL) - A DSL to describe formats and generate loaders
+    - [Hardella IDE](https://hardella.com/en/) - Smart programming environment for PLC 
     - [iets3](https://github.com/iets3/iets3.opensource) - Base language for system modelling and specification including basics abstractions for  components, expression, variability, etc
     - [mbeddr](https://github.com/mbeddr/mbeddr.core) - An extensible C implementation in MPS to support embedded software development.
     - [MetaR](https://github.com/CampagneLaboratory/MetaR) - A IDE for R for people with limited computer science background.
