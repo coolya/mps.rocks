@@ -27,6 +27,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
         - [MPS User Guide](https://confluence.jetbrains.com/display/MPSD20173/MPS+User%27s+Guide)
         - [The MPS Language Workbench](http://campagnelab.org/publications/our-books/)
         - [DSL Engineering](http://dslbook.org/) - Contains a detailed discussion of the concepts behind MPS in its Part III on language implementation.
+		- [Fast track tutorial](https://confluence.jetbrains.com/display/MPSD20173/Fast+Track+to+MPS)
     - [Twitter](#twitter)
         - [JetBrains MPS](https://twitter.com/jetbrains_mps)
     - [Websites](#websites)
