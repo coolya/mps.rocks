@@ -20,6 +20,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
     - [iets3](https://github.com/iets3/iets3.opensource) - Base language for system modelling and specification including basics abstractions for  components, expression, variability, etc
     - [mbeddr](https://github.com/mbeddr/mbeddr.core) - An extensible C implementation in MPS to support embedded software development.
     - [MetaR](https://github.com/CampagneLaboratory/MetaR) - A IDE for R for people with limited computer science background.
+    - [PeoPL](https://github.com/benbehringer/peopl) - A full IDE build upon MPS to manage Software Product Lines
 - [Resources](#resources)
     - [Learning](#learing)
         - [MPS User Guide](https://confluence.jetbrains.com/display/MPSD20173/MPS+User%27s+Guide)
