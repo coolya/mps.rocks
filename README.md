@@ -30,6 +30,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
 		- [Fast track tutorial](https://confluence.jetbrains.com/display/MPSD20173/Fast+Track+to+MPS)
     - [Twitter](#twitter)
         - [JetBrains MPS](https://twitter.com/jetbrains_mps)
+	- [Slack](#slack)
+        - [JetBrains MPS slack channel](http://slack-mps.jetbrains.com/)
     - [Websites](#websites)
         - [languageengineering.io](https://languageengineering.io) - A blog focused in language engineering with many examples implemnted using MPS.
         - [Official Website](https://www.jetbrains.com/mps/)
