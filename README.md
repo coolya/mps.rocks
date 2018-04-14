@@ -30,6 +30,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
         - [The MPS Language Workbench](http://campagnelab.org/publications/our-books/)
         - [DSL Engineering](http://dslbook.org/) - Contains a detailed discussion of the concepts behind MPS in its Part III on language implementation.
 		- [Fast track tutorial](https://confluence.jetbrains.com/display/MPSD20173/Fast+Track+to+MPS)
+		- [Creating a simple language using JetBrains MPS](https://dev.to/antoine/creating-a-simple-language-using-jetbrains-mps-c7d) - The objective of this project is to construct a language to define mindmaps.
     - [Twitter](#twitter)
         - [JetBrains MPS](https://twitter.com/jetbrains_mps)
     - [Websites](#websites)
