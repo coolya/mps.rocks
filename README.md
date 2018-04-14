@@ -17,6 +17,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
     - [Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar) - Pretty progress bars for IJ based IDEs. 
     - [MPS JSON Language](https://github.com/nkoester/mps-json) - A JSON implementation for MPS. 
 
+
 - [Build with MPS](#build-with-mps)
     - [FormatsDSL](https://github.com/ftomassetti/FormatsDSL) - A DSL to describe formats and generate loaders
     - [Hardella IDE](https://hardella.com/en/) - Smart programming environment for PLC 
@@ -24,6 +25,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
     - [mbeddr](https://github.com/mbeddr/mbeddr.core) - An extensible C implementation in MPS to support embedded software development.
     - [MetaR](https://github.com/CampagneLaboratory/MetaR) - A IDE for R for people with limited computer science background.
     - [PeoPL](https://github.com/benbehringer/peopl) - A full IDE build upon MPS to manage Software Product Lines.
+    - [Hardella IDE](https://hardella.com/en/?utm_content=bufferc3f54&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - Smart programming environment for PLC (61131 ST & Co).
 - [Resources](#resources)
     - [Learning](#learing)
         - [MPS User Guide](https://confluence.jetbrains.com/display/MPSD20173/MPS+User%27s+Guide)
