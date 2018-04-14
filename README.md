@@ -4,6 +4,7 @@ A curated list of awesome MPS extensions/libraries, software and resources.
 
 Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awesome-rust](https://github.com/rust-unofficial/awesome-rust).
 
+
 ### [Awesome MPS](#awesome-MPS)
   - [ANTLR_MPS](https://github.com/CampagneLaboratory/ANTLR_MPS) - An ANTLR language for MPS, and the ToMPS language to help create MPS languages and ANTRL visitors from an ANTLR 4 grammar.
   - [ecmascript4mps](https://github.com/mar9000/ecmascript4mps) - ECMAScript language implementation for JetBrains MPS
@@ -14,24 +15,29 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
   - [PlantUML](https://github.com/vjramirez/PlantUML) - Language for PlantUML models, also useful to generate PlantUML diagrams from custom DSL.
   - [Simple Generator Editors](https://github.com/coolya/mps-generator-editors) - Simplified editors to increase readability of generators.
   - [Text Generator Plugin](https://github.com/DSLFoundry/mps-plaintextgen) - Alternative Textgen for JetBrains MPS using the standard model to model generation mechanisms.
-  - [Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar) - Pretty progress bars for IJ based IDEs.
+  - [Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar) - Pretty progress bars for IJ based IDEs. 
+  - [MPS JSON Language](https://github.com/nkoester/mps-json) - A JSON implementation for MPS. 
+  - [digitalember.extensions](https://github.com/digital-ember/digitalember.extensions) - MPS baseLanguage editor extensions for better readability.
 
-### [Built with MPS](#built-with-mps)
+
+### [Build with MPS](#build-with-mps)
   - [FormatsDSL](https://github.com/ftomassetti/FormatsDSL) - A DSL to describe formats and generate loaders
-  - [Hardella IDE](https://hardella.com/en/) - Smart programming environment for PLC
+  - [Hardella IDE](https://hardella.com/en/) - Smart programming environment for PLC 
   - [iets3](https://github.com/iets3/iets3.opensource) - Base language for system modelling and specification including basics abstractions for  components, expression, variability, etc
   - [mbeddr](https://github.com/mbeddr/mbeddr.core) - An extensible C implementation in MPS to support embedded software development.
   - [MetaR](https://github.com/CampagneLaboratory/MetaR) - A IDE for R for people with limited computer science background.
   - [PeoPL](https://github.com/benbehringer/peopl) - A full IDE build upon MPS to manage Software Product Lines.
-
 ### [Resources](#resources)
   - [Learning](#learing)
       - [MPS User Guide](https://confluence.jetbrains.com/display/MPSD20173/MPS+User%27s+Guide)
       - [The MPS Language Workbench](http://campagnelab.org/publications/our-books/)
       - [DSL Engineering](http://dslbook.org/) - Contains a detailed discussion of the concepts behind MPS in its Part III on language implementation.
-	- [Fast track tutorial](https://confluence.jetbrains.com/display/MPSD20173/Fast+Track+to+MPS)
+  - [Fast track tutorial](https://confluence.jetbrains.com/display/MPSD20173/Fast+Track+to+MPS)
+  - [Creating a simple language using JetBrains MPS](https://dev.to/antoine/creating-a-simple-language-using-jetbrains-mps-c7d) - The objective of this project is to construct a language to define mindmaps.
   - [Twitter](#twitter)
       - [JetBrains MPS](https://twitter.com/jetbrains_mps)
+- [Slack](#slack)
+      - [JetBrains MPS slack channel](http://slack-mps.jetbrains.com/)
   - [Websites](#websites)
       - [languageengineering.io](https://languageengineering.io) - A blog focused in language engineering with many examples implemnted using MPS.
       - [Official Website](https://www.jetbrains.com/mps/)
