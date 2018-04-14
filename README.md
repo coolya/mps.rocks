@@ -33,6 +33,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
 		- [Creating a simple language using JetBrains MPS](https://dev.to/antoine/creating-a-simple-language-using-jetbrains-mps-c7d) - The objective of this project is to construct a language to define mindmaps.
     - [Twitter](#twitter)
         - [JetBrains MPS](https://twitter.com/jetbrains_mps)
+	- [Slack](#slack)
+        - [JetBrains MPS slack channel](http://slack-mps.jetbrains.com/)
     - [Websites](#websites)
         - [languageengineering.io](https://languageengineering.io) - A blog focused in language engineering with many examples implemnted using MPS.
         - [Official Website](https://www.jetbrains.com/mps/)
