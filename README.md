@@ -15,6 +15,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
     - [Simple Generator Editors](https://github.com/coolya/mps-generator-editors) - Simplified editors to increase readability of generators.
     - [Text Generator Plugin](https://github.com/DSLFoundry/mps-plaintextgen) - Alternative Textgen for JetBrains MPS using the standard model to model generation mechanisms.
     - [Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar) - Pretty progress bars for IJ based IDEs. 
+    - [MPS JSON Language](https://github.com/nkoester/mps-json) - A JSON implementation for MPS. 
 
 - [Build with MPS](#build-with-mps)
     - [FormatsDSL](https://github.com/ftomassetti/FormatsDSL) - A DSL to describe formats and generate loaders
