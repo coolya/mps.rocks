@@ -7,6 +7,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
 
 ### [Awesome MPS](#awesome-MPS)
   - [ANTLR_MPS](https://github.com/CampagneLaboratory/ANTLR_MPS) - An ANTLR language for MPS, and the ToMPS language to help create MPS languages and ANTRL visitors from an ANTLR 4 grammar.
+  - [mps-code-reviewer](https://github.com/Workday/mps-code-reviewer) - Code Review for JetBrains MPS providing integration with Bitbucket
   - [ecmascript4mps](https://github.com/mar9000/ecmascript4mps) - ECMAScript language implementation for JetBrains MPS
   - [Editor2PDF](https://github.com/CampagneLaboratory/Editor2PDF) - Serialises editor into PDF files
   - [ingrid](https://github.com/premun/ingrid) - Ingrid is a plugin for JetBrains MPS allowing import of ANTLRv4 grammars and create an MPS language out of it.
