@@ -18,8 +18,5 @@ extra:
       link: 'https://github.com/coolya'
     - type: 'twitter'
       link: 'https://twitter.com/dumdidum'
-google_analytics:
-  - 'UA-117084171-1'
-  - 'auto'
 pages:
   - "Get yourself some MPS.": "index.md"
