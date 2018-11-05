@@ -33,6 +33,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
       - [MPS User Guide](https://confluence.jetbrains.com/display/MPSD20173/MPS+User%27s+Guide)
       - [The MPS Language Workbench](http://campagnelab.org/publications/our-books/)
       - [DSL Engineering](http://dslbook.org/) - Contains a detailed discussion of the concepts behind MPS in its Part III on language implementation.
+  - [MPS + mbeddr.platform + KernelF Introduction Course](https://github.com/markusvoelter/mpsintrocourse) (Video + Source) - A slightly advanced introduction to MPS: two languages, an generator, and interpreter, language compositon and non-textual notations.
   - [Fast track tutorial](https://confluence.jetbrains.com/display/MPSD20173/Fast+Track+to+MPS)
   - [Creating a simple language using JetBrains MPS](https://dev.to/antoine/creating-a-simple-language-using-jetbrains-mps-c7d) - The objective of this project is to construct a language to define mindmaps.
   - [Twitter](#twitter)
