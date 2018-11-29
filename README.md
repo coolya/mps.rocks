@@ -37,14 +37,14 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
       - [DSL Engineering](http://dslbook.org/) - Contains a detailed discussion of the concepts behind MPS in its Part III on language implementation.
   - [Fast track tutorial](https://confluence.jetbrains.com/display/MPSD20173/Fast+Track+to+MPS)
   - [Creating a simple language using JetBrains MPS](https://dev.to/antoine/creating-a-simple-language-using-jetbrains-mps-c7d) - The objective of this project is to construct a language to define mindmaps.
-  - [Twitter](#twitter)
-      - [JetBrains MPS](https://twitter.com/jetbrains_mps)
+- [Twitter](#twitter)
+     - [JetBrains MPS](https://twitter.com/jetbrains_mps)
 - [Slack](#slack)
-      - [JetBrains MPS slack channel](http://slack-mps.jetbrains.com/)
+     - [JetBrains MPS slack channel](http://slack-mps.jetbrains.com/)
 - [Websites](#websites)
-      - [languageengineering.io](https://languageengineering.io) - A blog focused in language engineering with many examples implemented using MPS.
-      - [Official Website](https://www.jetbrains.com/mps/)
-      - [Programming Basics](https://markusvoelter.github.io/ProgrammingBasics/) - Uses MPS to teach the basics of programming to none computer science people.
+     - [languageengineering.io](https://languageengineering.io) - A blog focused in language engineering with many examples implemented using MPS.
+     - [Official Website](https://www.jetbrains.com/mps/)
+     - [Programming Basics](https://markusvoelter.github.io/ProgrammingBasics/) - Uses MPS to teach the basics of programming to none computer science people.
 - [Papers](#papers)
      - [Domain-Specific Languages for Efficient Satellite Control Software Development](http://mbeddr.com/files/dasia_wortmann.pdf)
      - [Using C Language Extensions for Developing Embedded Software - A Case Study](http://mbeddr.com/files/mbeddr-cs-oopsla2015-preprint.pdf)
