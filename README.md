@@ -30,6 +30,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
   - [PeoPL](https://github.com/benbehringer/peopl) - A full IDE build upon MPS to manage Software Product Lines.
 ### [Resources](#resources)
   - [Learning](#learing)
+      - [Heavy Meta a stream series about MPS on Twitch](https://medium.com/@dumdidum/heavy-meta-ff8fae0ce88d) - Live every Tueday and Thursday and [recording archive](https://www.twitch.tv/collections/CEnssF4wYhUalw)
+      - [MPS Intro Course by @markusvoelter](https://github.com/markusvoelter/mpsintrocourse) - A slightly advanced introduction to MPS
       - [MPS User Guide](https://confluence.jetbrains.com/display/MPSD20173/MPS+User%27s+Guide)
       - [The MPS Language Workbench](http://campagnelab.org/publications/our-books/)
       - [DSL Engineering](http://dslbook.org/) - Contains a detailed discussion of the concepts behind MPS in its Part III on language implementation.
