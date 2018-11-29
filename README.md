@@ -46,14 +46,14 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
       - [Official Website](https://www.jetbrains.com/mps/)
       - [Programming Basics](https://markusvoelter.github.io/ProgrammingBasics/) - Uses MPS to teach the basics of programming to none computer science people.
 - [Papers](#papers)
-      - [Domain-Specific Languages for Efficient Satellite Control Software Development](http://mbeddr.com/files/dasia_wortmann.pdf)
-      - [Using C Language Extensions for Developing Embedded Software - A Case Study](http://mbeddr.com/files/mbeddr-cs-oopsla2015-preprint.pdf)
-      - [Automated Testing of DSLs Implementations: Experiences from Building mbeddr](http://mbeddr.com/files/sqj_2017.pdf)
-      - [Lessons Learned from Developing mbeddr - A Case Study in Language Engineering with MPS](http://mbeddr.com/files/sosym_2017.pdf)
-      - [Efficient Development of Consistent Projectional Editors using Grammar Cells](http://mbeddr.com/files/gc-sle.pdf)
-      - [IncA: A DSL for the Definition of Incremental Program Analyses](http://mbeddr.com/files/inca-ase.pdf)
-      - [An Extensible Framework for Variable-Precision Data-Flow Analyses in MPS](http://mbeddr.com/files/mps-df-ase.pdf)
-      - [Towards Usable Projectional Editors](http://mbeddr.com/files/projectionalEditing-sle2014.pdf)
+     - [Domain-Specific Languages for Efficient Satellite Control Software Development](http://mbeddr.com/files/dasia_wortmann.pdf)
+     - [Using C Language Extensions for Developing Embedded Software - A Case Study](http://mbeddr.com/files/mbeddr-cs-oopsla2015-preprint.pdf)
+     - [Automated Testing of DSLs Implementations: Experiences from Building mbeddr](http://mbeddr.com/files/sqj_2017.pdf)
+     - [Lessons Learned from Developing mbeddr - A Case Study in Language Engineering with MPS](http://mbeddr.com/files/sosym_2017.pdf)
+     - [Efficient Development of Consistent Projectional Editors using Grammar Cells](http://mbeddr.com/files/gc-sle.pdf)
+     - [IncA: A DSL for the Definition of Incremental Program Analyses](http://mbeddr.com/files/inca-ase.pdf)
+     - [An Extensible Framework for Variable-Precision Data-Flow Analyses in MPS](http://mbeddr.com/files/mps-df-ase.pdf)
+     - [Towards Usable Projectional Editors](http://mbeddr.com/files/projectionalEditing-sle2014.pdf)
 
 ## Contributing
 
