@@ -42,7 +42,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
 - [Slack](#slack)
       - [JetBrains MPS slack channel](http://slack-mps.jetbrains.com/)
   - [Websites](#websites)
-      - [languageengineering.io](https://languageengineering.io) - A blog focused in language engineering with many examples implemnted using MPS.
+      - [languageengineering.io](https://languageengineering.io) - A blog focused in language engineering with many examples implemented using MPS.
       - [Official Website](https://www.jetbrains.com/mps/)
       - [Programming Basics](https://markusvoelter.github.io/ProgrammingBasics/) - Uses MPS to teach the basics of programming to none computer science people.
   - [Papers](#papers)
