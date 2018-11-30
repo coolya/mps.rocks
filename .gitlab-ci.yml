@@ -8,6 +8,8 @@ before_script:
 
 build:
   stage: build
+  only:
+    - master
   script:
     - make install
     - make deploy
