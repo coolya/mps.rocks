@@ -15,6 +15,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
       - [Fast track tutorial](https://confluence.jetbrains.com/display/MPSD20182/Fast+Track+to+MPS) is the official tutorial for MPS. It will provide you with an high-level overview in 10 steps, covering all aspects of MPS at a high level.
       - [MPS Intro Course by @markusvoelter](https://github.com/markusvoelter/mpsintrocourse) is a slightly advanced introduction to MPS in the form of multiple videos as well as a github repository to play around with. It also covers extensions to MPS such as additional notations or the interpreter framework.
       - [Grammar Cells](http://mbeddr.com/files/gc-sle.pdf) are a must-read and must-use extension to MPS. It will help you to create consistent and well-behaving textual notations in MPS with no effort.
+      - If you are specificly looking for input on how to build generators [this guide](https://coolya.github.io/maintainable-generators/) contains a set of best practices.
       - The [DSL Engineering Book](http://dslbook.org/) contains detailed discussions of the concepts behind MPS in its Part III on language implementation.
       - For more details on specific MPS topics we refer to [2 books on MPS](http://campagnelab.org/publications/our-books/) as well as the official [MPS User Guide](https://confluence.jetbrains.com/display/MPSD20173/MPS+User%27s+Guide)
     - [Learning](#learing) contains a list of even more tutorials
@@ -56,8 +57,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
       - [Fast track tutorial](https://confluence.jetbrains.com/display/MPSD20182/Fast+Track+to+MPS)
       - [Heavy Meta a stream series about MPS on Twitch](https://medium.com/@dumdidum/heavy-meta-ff8fae0ce88d) - Live every Tueday and Thursday and [recording archive](https://www.twitch.tv/collections/CEnssF4wYhUalw)
       - [MPS Intro Course by @markusvoelter](https://github.com/markusvoelter/mpsintrocourse) - A slightly advanced introduction to MPS
+      - [Towards Maintainable Generators](https://coolya.github.io/maintainable-generators/) - Best practices for maintainable generators and a set of rules when to apply them.
       - [The MPS Language Workbench](http://campagnelab.org/publications/our-books/)
       - [MPS User Guide](https://confluence.jetbrains.com/display/MPSD20173/MPS+User%27s+Guide)
+
 
 ### [Community](#community)
 - [Twitter](#twitter)
