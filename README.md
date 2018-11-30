@@ -4,6 +4,27 @@ A curated list of awesome MPS extensions/libraries, software and resources.
 
 Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awesome-rust](https://github.com/rust-unofficial/awesome-rust).
 
+### What Do You Want?
+  - Understand what MPS is
+    - [What is MPS and why to build your own language](https://www.youtube.com/watch?v=9BvpBLzzprA)
+  - See what others have been building with MPS
+    - [Build with MPS](#build-with-mps) are open source projects that all build on MPS
+    - [Research](#research) contains a list academic papers that make heavy use of MPS
+  - Get started with building stuff on top of MPS
+    - To get stated we suggest to look at the tutorials in the following order
+      - [Fast track tutorial](https://confluence.jetbrains.com/display/MPSD20182/Fast+Track+to+MPS) is the official tutorial for MPS. It will provide you with an high-level overview in 10 steps, covering all aspects of MPS at a high level.
+      - [MPS Intro Course by @markusvoelter](https://github.com/markusvoelter/mpsintrocourse) is a slightly advanced introduction to MPS in the form of multiple videos as well as a github repository to play around with. It also covers extensions to MPS such as additional notations or the interpreter framework.
+      - [Grammar Cells](http://mbeddr.com/files/gc-sle.pdf) are a must-read and must-use extension to MPS. It will help you to create consistent and well-behaving textual notations in MPS with no effort.
+      - The [DSL Engineering Book](http://dslbook.org/) contains detailed discussions of the concepts behind MPS in its Part III on language implementation.
+      - For more details on specific MPS topics we refer to [2 books on MPS](http://campagnelab.org/publications/our-books/) as well as the official [MPS User Guide](https://confluence.jetbrains.com/display/MPSD20173/MPS+User%27s+Guide)
+    - [Learning](#learing) contains a list of even more tutorials
+    - In addition [Research](#research) contains a list academic papers that make heavy use of MPS
+  - Find existing extensions for MPS
+    - [Awesome MPS](#awesome-MPS) contains a collection of extensions to MPS
+  - Get in touch with the community
+    - The [Community](#community) list the usual subects
+
+
 
 ### [Awesome MPS](#awesome-MPS)
   - [ANTLR_MPS](https://github.com/CampagneLaboratory/ANTLR_MPS) - An ANTLR language for MPS, and the ToMPS language to help create MPS languages and ANTRL visitors from an ANTLR 4 grammar.
@@ -32,12 +53,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
   - [Learning](#learing)
       - [Creating a simple language using JetBrains MPS](https://dev.to/antoine/creating-a-simple-language-using-jetbrains-mps-c7d) - The objective of this project is to construct a language to define mindmaps.
       - [DSL Engineering](http://dslbook.org/) - Contains a detailed discussion of the concepts behind MPS in its Part III on language implementation.
-      - [Fast track tutorial](https://confluence.jetbrains.com/display/MPSD20173/Fast+Track+to+MPS)
+      - [Fast track tutorial](https://confluence.jetbrains.com/display/MPSD20182/Fast+Track+to+MPS)
       - [Heavy Meta a stream series about MPS on Twitch](https://medium.com/@dumdidum/heavy-meta-ff8fae0ce88d) - Live every Tueday and Thursday and [recording archive](https://www.twitch.tv/collections/CEnssF4wYhUalw)
       - [MPS Intro Course by @markusvoelter](https://github.com/markusvoelter/mpsintrocourse) - A slightly advanced introduction to MPS
       - [The MPS Language Workbench](http://campagnelab.org/publications/our-books/)
       - [MPS User Guide](https://confluence.jetbrains.com/display/MPSD20173/MPS+User%27s+Guide)
 
+### [Community](#community)
 - [Twitter](#twitter)
      - [JetBrains MPS](https://twitter.com/jetbrains_mps)
 - [Slack](#slack)
@@ -46,7 +68,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
      - [languageengineering.io](https://languageengineering.io) - A blog focused in language engineering with many examples implemented using MPS.
      - [Official Website](https://www.jetbrains.com/mps/)
      - [Programming Basics](https://markusvoelter.github.io/ProgrammingBasics/) - Uses MPS to teach the basics of programming to none computer science people.
+     
+### [Research](#research) 
 - [Papers](#papers)
+     - [Using Language Workbenches and Domain-Specific Languages for Safety-critical Software Development](http://www.voelter.de/data/pub/MPS-in-Safety-1.0.pdf)
+     - [The Design, Evolution and Use of KernelF](http://www.voelter.de/data/pub/kernelf-icmt.pdf) [Slides](http://www.voelter.de/data/presentations/icmt2018-kernelf.pdf)
      - [Domain-Specific Languages for Efficient Satellite Control Software Development](http://mbeddr.com/files/dasia_wortmann.pdf)
      - [Using C Language Extensions for Developing Embedded Software - A Case Study](http://mbeddr.com/files/mbeddr-cs-oopsla2015-preprint.pdf)
      - [Automated Testing of DSLs Implementations: Experiences from Building mbeddr](http://mbeddr.com/files/sqj_2017.pdf)
