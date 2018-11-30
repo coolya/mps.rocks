@@ -12,4 +12,5 @@ preview: link
 	mkdocs serve
 
 deploy: link
-	mkdocs gh-deploy --clean
+	git remote add gh-pages https://$(GITHUB_TOKEN)@github.com/coolya/mps.rocks.git
+	mkdocs gh-deploy --clean -r gh-pages --force
