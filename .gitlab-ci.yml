@@ -1,0 +1,13 @@
+image: python:3.7.0-stretch
+
+stages:
+  - build
+
+before_script:
+  - apt-get update && apt-get install -y make
+
+build:
+  stage: build
+  script:
+    - make install
+    - make deploy
