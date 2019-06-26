@@ -85,6 +85,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
      - [IncA: A DSL for the Definition of Incremental Program Analyses](http://mbeddr.com/files/inca-ase.pdf)
      - [An Extensible Framework for Variable-Precision Data-Flow Analyses in MPS](http://mbeddr.com/files/mps-df-ase.pdf)
      - [Towards Usable Projectional Editors](http://mbeddr.com/files/projectionalEditing-sle2014.pdf)
+	 - [Taming the Software Development Complexity with Domain Specific Languages](https://drive.google.com/file/d/1Vf2qKteV0XdisQk1sxqdEQMw4bejeoiW/view)
 
 ## Contributing
 
