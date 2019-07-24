@@ -50,6 +50,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
   - [mbeddr](https://github.com/mbeddr/mbeddr.core) - An extensible C implementation in MPS to support embedded software development.
   - [MetaR](https://github.com/CampagneLaboratory/MetaR) - A IDE for R for people with limited computer science background.
   - [PeoPL](https://github.com/benbehringer/peopl) - A full IDE build upon MPS to manage Software Product Lines.
+  - [FASTEN](https://sites.google.com/site/fastenroot) - An IDE for system level formal specification. A stack of DSLs built on top of SMV, verified using the NuSMV model checker.
 ### [Resources](#resources)
   - [Learning](#learing)
       - [Creating a simple language using JetBrains MPS](https://dev.to/antoine/creating-a-simple-language-using-jetbrains-mps-c7d) - The objective of this project is to construct a language to define mindmaps.
@@ -84,6 +85,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
      - [IncA: A DSL for the Definition of Incremental Program Analyses](http://mbeddr.com/files/inca-ase.pdf)
      - [An Extensible Framework for Variable-Precision Data-Flow Analyses in MPS](http://mbeddr.com/files/mps-df-ase.pdf)
      - [Towards Usable Projectional Editors](http://mbeddr.com/files/projectionalEditing-sle2014.pdf)
+	 - [Taming the Software Development Complexity with Domain Specific Languages](https://drive.google.com/file/d/1Vf2qKteV0XdisQk1sxqdEQMw4bejeoiW/view)
 
 ## Contributing
 
