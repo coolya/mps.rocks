@@ -73,6 +73,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
      - [Official Website](https://www.jetbrains.com/mps/)
      - [Programming Basics](https://markusvoelter.github.io/ProgrammingBasics/) - Uses MPS to teach the basics of programming to none computer science people.
      - [DSLFoundry](http://dslfoundry.com/) - DSLFoundry blog: howtos and articles about practical MPS usage.
+     - [Specific Languages](https://specificlanguages.com/) - Specific Languages blog: articles about practical MPS usage.
      
 ### [Research](#research) 
 - [Papers](#papers)
