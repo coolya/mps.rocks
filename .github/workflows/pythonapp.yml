@@ -22,6 +22,6 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        ln -sf $(GITHUB_WORKSPACE)/README.md $(GITHUB_WORKSPACE)/docs/index.md
-        git remote add gh-pages https://$(GITHUB_TOKEN)@github.com/coolya/mps.rocks.git
+        ln -sf ${GITHUB_WORKSPACE}/README.md ${GITHUB_WORKSPACE}/docs/index.md
+        git remote add gh-pages https://${GITHUB_TOKEN}@github.com/coolya/mps.rocks.git
         mkdocs gh-deploy --clean -r gh-pages --force
