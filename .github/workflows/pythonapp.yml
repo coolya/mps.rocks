@@ -20,5 +20,5 @@ jobs:
         pip install mkdocs-material
     - name: Test with pytest
       run: |
-      git remote add gh-pages https://${{ secrets.GITHUB_TOKEN }}@github.com/coolya/mps.rocks.git
-      mkdocs gh-deploy --clean -r gh-pages --force
+        git remote add gh-pages https://${{ secrets.GITHUB_TOKEN }}@github.com/coolya/mps.rocks.git
+        mkdocs gh-deploy --clean -r gh-pages --force
