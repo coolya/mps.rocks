@@ -3,6 +3,7 @@ name: build gh pages
 on:
   push:
     branches:
+      - '*'
       - '!master'
       - '!gh-pages'
 
