@@ -1,11 +1,6 @@
 name: build gh pages
 
-on:
-  push:
-    branches:
-      - '*'
-      - '!master'
-      - '!gh-pages'
+on: [pull_request]
 
 jobs:
   build:
