@@ -1,9 +1,6 @@
-name: build and publish gh pages
+name: build gh pages
 
-on:
-  push:
-    branches:
-      - master
+on: [pull_request]
 
 jobs:
   build:
@@ -19,10 +16,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install mkdocs
         pip install mkdocs-material
-    - name: build mkdocs and deploy to gh-pages
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: build mkdocs
       run: |
         ln -sf ${GITHUB_WORKSPACE}/README.md ${GITHUB_WORKSPACE}/docs/index.md
-        git remote add gh-pages https://x-access-token:${GITHUB_TOKEN}@github.com/coolya/mps.rocks.git
-        mkdocs gh-deploy --clean -r gh-pages --force
+        mkdocs build
