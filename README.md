@@ -41,6 +41,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
   - [Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar) - Pretty progress bars for IJ based IDEs. 
   - [MPS JSON Language](https://github.com/nkoester/mps-json) - A JSON implementation for MPS. 
   - [digitalember.extensions](https://github.com/digital-ember/digitalember.extensions) - MPS baseLanguage editor extensions for better readability.
+  - [MPS-QA](https://github.com/mbeddr/mps-qa) - This repository contains quality assurance tooling for Jetbrains' MPS.
 
 
 ### [Build with MPS](#build-with-mps)
