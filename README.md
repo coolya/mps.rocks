@@ -12,6 +12,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
     - [Research](#research) contains a list academic papers that make heavy use of MPS
   - Get started with building stuff on top of MPS
     - To get stated we suggest to look at the tutorials in the following order
+      - [MPS for the Impatient](https://stepik.org/course/71593/) is a free hands-on course that covers the basics of JetBrains MPS from the language designer's perspective, skipping the theoretical topics as well as the practical productivity how-tos. 
       - [Fast track tutorial](https://confluence.jetbrains.com/display/MPSD20182/Fast+Track+to+MPS) is the official tutorial for MPS. It will provide you with an high-level overview in 10 steps, covering all aspects of MPS at a high level.
       - [MPS Intro Course by @markusvoelter](https://github.com/markusvoelter/mpsintrocourse) is an advanced introduction to MPS in the form of multiple videos as well as a github repository to play around with. It also covers extensions to MPS such as additional notations or the interpreter framework.
       - [Grammar Cells](http://mbeddr.com/files/gc-sle.pdf) An extension to the editor language of MPS. It will help you to create consistent and well-behaving textual notations in MPS with no effort.
