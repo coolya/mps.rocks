@@ -14,9 +14,9 @@ theme:
     tabs: false
 extra:
   social:
-    - type: 'github'
+    - icon: 'fontawesome/brands/github'
       link: 'https://github.com/coolya'
-    - type: 'twitter'
+    - icon: 'fontawesome/brands/twitter'
       link: 'https://twitter.com/dumdidum'
-pages:
+nav:
   - "Get yourself some MPS.": "index.md"

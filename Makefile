@@ -2,8 +2,7 @@ BASEDIR=$(CURDIR)
 DOCDIR=$(BASEDIR)/docs
 
 install:
-	pip install mkdocs
-	pip install mkdocs-material
+	pip install -r requirements.txt
 
 link:
 	ln -sf $(BASEDIR)/README.md $(DOCDIR)/index.md
