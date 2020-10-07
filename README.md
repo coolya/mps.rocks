@@ -53,6 +53,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
   - [MetaR](https://metar-languages.github.io/) - A IDE for R for people with limited computer science background.
   - [PeoPL](https://github.com/benbehringer/peopl) - A full IDE build upon MPS to manage Software Product Lines.
   - [FASTEN](https://sites.google.com/site/fastenroot) - An IDE for system level formal specification. A stack of DSLs built on top of SMV, verified using the NuSMV model checker.
+  - [Dutch Tax Office](https://resources.jetbrains.com/storage/products/mps/docs/MPS_DTO_Case_Study.pdf) - Domain-specific languages to implement Dutch tax legislation and process changes of that legislation.
 ### [Resources](#resources)
   - [Learning](#learing)
       - [Creating a simple language using JetBrains MPS](https://dev.to/antoine/creating-a-simple-language-using-jetbrains-mps-c7d) - The objective of this project is to construct a language to define mindmaps.
