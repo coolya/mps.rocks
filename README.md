@@ -24,7 +24,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python/) and [awes
   - Find existing extensions for MPS
     - [Awesome MPS](#awesome-MPS) contains a collection of extensions to MPS
   - Get in touch with the community
-    - The [Community](#community) list the usual subects
+    - The [Community](#community) list the usual suspects
 
 
 
