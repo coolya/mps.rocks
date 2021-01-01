@@ -1,12 +1,13 @@
 # Contributing
 
-Your contributions are always welcome!
+You found wrote or found an interesting artical/turorial/book or build something for MPS? Please add your work to the list to help others discover it. Your contributions are always welcome!
 
 ## Guidelines
 
 * Add one link per Pull Request.
 * Add the link: `* [project-name](http://example.com/) - A short description ends with a period.`
     * Keep descriptions concise.
+    * Please order entries in the lists alphabaticall by their name. Ignore articals or the MPS prefix when doing so e.g. "MPS Gradle Pluing" should use "Grade Plugin" for odering while "A MPS introductory course" should use "introductory course". 
 * Check your spelling and grammar.
 * Remove any trailing whitespace.
 * Send a Pull Request
