@@ -90,7 +90,7 @@ Individual languages.
 - [Fast track tutorial](https://confluence.jetbrains.com/display/MPSD20182/Fast+Track+to+MPS)
 - [Domain-Specific Languages in Practice with JetBrains MPS](https://www.springer.com/gp/book/9783030737573#aboutBook) - Provides an overview of the domain of language workbenches and examples in both industrial applications and research projects.
 - [DSL Engineering](http://dslbook.org/) - Contains a detailed discussion of the concepts behind MPS in its Part III on language implementation.
-- [The MPS Language Workbench](http://campagnelab.org/publications/our-books/)
+- [The MPS Language Workbench](https://www.amazon.com/gp/product/B00JFFIR1U/ref=dbs_a_def_rwt_bibl_vppi_i0) - Introduction to the JetBrains MPS language workbench and a complete reference manual.
 - [MPS User Guide](https://www.jetbrains.com/help/mps/mps-user-s-guide.html)
 - [Towards Maintainable Generators](https://coolya.github.io/maintainable-generators/) - Best practices for maintainable generators and a set of rules when to apply them.
 
