@@ -88,6 +88,7 @@ Individual languages.
 ### [Books and User Guides](#Guides)
 
 - [Fast track tutorial](https://confluence.jetbrains.com/display/MPSD20182/Fast+Track+to+MPS)
+- [Domain-Specific Languages in Practice with JetBrains MPS](https://www.springer.com/gp/book/9783030737573#aboutBook) - Provides an overview of the domain of language workbenches and examples in both industrial applications and research projects.
 - [DSL Engineering](http://dslbook.org/) - Contains a detailed discussion of the concepts behind MPS in its Part III on language implementation.
 - [The MPS Language Workbench](http://campagnelab.org/publications/our-books/)
 - [MPS User Guide](https://www.jetbrains.com/help/mps/mps-user-s-guide.html)
