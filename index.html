@@ -1,0 +1,820 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="A curated list of awesome MPS extensions/libraries, software and resources">
+      
+      
+      
+        <meta name="author" content="Kolja Dummann">
+      
+      
+        <link rel="canonical" href="http://mps.rocks/">
+      
+      <link rel="icon" href="assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-7.1.7">
+    
+    
+      
+        <title>MPS Rocks</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.ca7ac06f.min.css">
+      
+        
+        <link rel="stylesheet" href="assets/stylesheets/palette.f1a3b89f.min.css">
+        
+          
+          
+          <meta name="theme-color" content="#4cae4f">
+        
+      
+    
+    
+    
+      
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>:root{--md-text-font-family:"Roboto";--md-code-font-family:"Roboto Mono"}</style>
+      
+    
+    
+    
+    
+      
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="green" data-md-color-accent="amber">
+  
+    
+    <script>function __prefix(e){return new URL(".",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#mps-rocks" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="." title="MPS Rocks" class="md-header__button md-logo" aria-label="MPS Rocks" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            MPS Rocks
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Get yourself some MPS.
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        
+<a href="https://github.com/coolya/mps.rocks" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    coolya/mps.rocks
+  </div>
+</a>
+      </div>
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="." title="MPS Rocks" class="md-nav__button md-logo" aria-label="MPS Rocks" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    MPS Rocks
+  </label>
+  
+    <div class="md-nav__source">
+      
+<a href="https://github.com/coolya/mps.rocks" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    coolya/mps.rocks
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Get yourself some MPS.
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="." class="md-nav__link md-nav__link--active">
+        Get yourself some MPS.
+      </a>
+      
+        
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#what-are-you-looking-for" class="md-nav__link">
+    What are you looking for?
+  </a>
+  
+    <nav class="md-nav" aria-label="What are you looking for?">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#understand-what-mps-is" class="md-nav__link">
+    Understand what MPS is
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#see-what-others-have-been-building-with-mps" class="md-nav__link">
+    See what others have been building with MPS
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#get-started-with-mps" class="md-nav__link">
+    Get started with MPS
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#get-in-touch-with-the-community" class="md-nav__link">
+    Get in touch with the community
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#awesome-mps" class="md-nav__link">
+    Awesome MPS
+  </a>
+  
+    <nav class="md-nav" aria-label="Awesome MPS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#plugins" class="md-nav__link">
+    Plugins
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#built-with-mps" class="md-nav__link">
+    Built with MPS
+  </a>
+  
+    <nav class="md-nav" aria-label="Built with MPS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ides" class="md-nav__link">
+    IDEs
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#languages" class="md-nav__link">
+    Languages
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#learning-mps" class="md-nav__link">
+    Learning MPS
+  </a>
+  
+    <nav class="md-nav" aria-label="Learning MPS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tutorials-courses" class="md-nav__link">
+    Tutorials / Courses
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#books-and-user-guides" class="md-nav__link">
+    Books and User Guides
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#community" class="md-nav__link">
+    Community
+  </a>
+  
+    <nav class="md-nav" aria-label="Community">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#twitter" class="md-nav__link">
+    Twitter
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#slack" class="md-nav__link">
+    Slack
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#websites" class="md-nav__link">
+    Websites
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#research" class="md-nav__link">
+    Research
+  </a>
+  
+    <nav class="md-nav" aria-label="Research">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#papers" class="md-nav__link">
+    Papers
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#contributing" class="md-nav__link">
+    Contributing
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#what-are-you-looking-for" class="md-nav__link">
+    What are you looking for?
+  </a>
+  
+    <nav class="md-nav" aria-label="What are you looking for?">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#understand-what-mps-is" class="md-nav__link">
+    Understand what MPS is
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#see-what-others-have-been-building-with-mps" class="md-nav__link">
+    See what others have been building with MPS
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#get-started-with-mps" class="md-nav__link">
+    Get started with MPS
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#get-in-touch-with-the-community" class="md-nav__link">
+    Get in touch with the community
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#awesome-mps" class="md-nav__link">
+    Awesome MPS
+  </a>
+  
+    <nav class="md-nav" aria-label="Awesome MPS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#plugins" class="md-nav__link">
+    Plugins
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#built-with-mps" class="md-nav__link">
+    Built with MPS
+  </a>
+  
+    <nav class="md-nav" aria-label="Built with MPS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ides" class="md-nav__link">
+    IDEs
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#languages" class="md-nav__link">
+    Languages
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#learning-mps" class="md-nav__link">
+    Learning MPS
+  </a>
+  
+    <nav class="md-nav" aria-label="Learning MPS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tutorials-courses" class="md-nav__link">
+    Tutorials / Courses
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#books-and-user-guides" class="md-nav__link">
+    Books and User Guides
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#community" class="md-nav__link">
+    Community
+  </a>
+  
+    <nav class="md-nav" aria-label="Community">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#twitter" class="md-nav__link">
+    Twitter
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#slack" class="md-nav__link">
+    Slack
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#websites" class="md-nav__link">
+    Websites
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#research" class="md-nav__link">
+    Research
+  </a>
+  
+    <nav class="md-nav" aria-label="Research">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#papers" class="md-nav__link">
+    Papers
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#contributing" class="md-nav__link">
+    Contributing
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <h1 id="mps-rocks">MPS rocks <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a></h1>
+<p>A curated list of awesome MPS extensions/libraries, software and resources.</p>
+<p>Inspired by <a href="https://github.com/vinta/awesome-python/">awesome-python</a> and <a href="https://github.com/rust-unofficial/awesome-rust">awesome-rust</a>.</p>
+<h2 id="what-are-you-looking-for">What are you looking for?</h2>
+<h3 id="understand-what-mps-is">Understand what MPS is</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=9BvpBLzzprA">What is MPS and why to build your own language</a></li>
+</ul>
+<h3 id="see-what-others-have-been-building-with-mps">See what others have been building with MPS</h3>
+<ul>
+<li><a href="#built-with-mps">Built with MPS</a> are open source projects that all built on MPS</li>
+<li><a href="#research">Research</a> contains a list academic papers that make heavy use of MPS</li>
+</ul>
+<h3 id="get-started-with-mps">Get started with MPS</h3>
+<p>To get stated we suggest to look at the tutorials in the following order:</p>
+<ul>
+<li><a href="https://stepik.org/course/71593/">MPS for the Impatient</a> is a free hands-on course that covers the basics of JetBrains MPS from the language designer's perspective, skipping the theoretical topics as well as the practical productivity how-tos.</li>
+<li><a href="https://heavymeta.tv">HeayMeta.tv</a> - A complete MPS tutorial to build your first language by @coolya with lots background information on language design.</li>
+<li><a href="https://github.com/markusvoelter/mpsintrocourse">MPS Intro Course by @markusvoelter</a> is an advanced introduction to MPS in the form of multiple videos as well as a github repository to play around with. It also covers extensions to MPS such as additional notations or the interpreter framework.</li>
+<li>If you are specificity looking for input on how to build generators <a href="https://coolya.github.io/maintainable-generators/">this guide</a> contains a set of best practices.</li>
+<li>The <a href="http://dslbook.org/">DSL Engineering Book</a> contains detailed discussions of the concepts behind MPS in its Part III on language implementation.</li>
+<li>For more details on specific MPS topics we refer to <a href="http://campagnelab.org/publications/our-books/">2 books on MPS</a> as well as the official <a href="https://confluence.jetbrains.com/display/MPSD20173/MPS+User%27s+Guide">MPS User Guide</a></li>
+</ul>
+<p><a href="#learning-mps">Learning</a> contains a list of even more tutorials. In addition <a href="#research">Research</a> contains a list academic papers that make heavy use of MPS.</p>
+<h3 id="get-in-touch-with-the-community">Get in touch with the community</h3>
+<ul>
+<li>The <a href="#community">Community</a> list the usual suspects</li>
+</ul>
+<h2 id="awesome-mps"><a href="#awesome-MPS">Awesome MPS</a></h2>
+<h3 id="plugins">Plugins</h3>
+<p>Plugins that improve MPS.</p>
+<ul>
+<li><a href="http://mbeddr.com/files/gc-sle.pdf">Grammar Cells</a> An extension to the editor language of MPS. It will help you to create consistent and well-behaving textual notations in MPS with no effort.</li>
+<li><a href="https://github.com/Workday/mps-code-reviewer">mps-code-reviewer</a> - Code Review for JetBrains MPS providing integration with Bitbucket</li>
+<li><a href="https://github.com/digital-ember/digitalember.extensions">digitalember.extensions</a> - MPS baseLanguage editor extensions for better readability.</li>
+<li><a href="https://github.com/coolya/Durchblick">Durchblick</a> - Simplified editors to increase readability of generators.</li>
+<li><a href="https://github.com/CampagneLaboratory/Editor2PDF">Editor2PDF</a> - Serialises editor into PDF files</li>
+<li><a href="https://github.com/JetBrains/MPS-extensions">MPS Extensions</a> - Various extensions to simplify language development.</li>
+<li><a href="https://github.com/mbeddr/mps-gradle-plugin">MPS gradle plugin</a> - A Gradle plugin to build &amp; test langauges and to support various tasks related to custom RCP packaging.</li>
+<li><a href="https://github.com/premun/ingrid">ingrid</a> - Ingrid is a plugin for JetBrains MPS allowing import of ANTLRv4 grammars and create an MPS language out of it.</li>
+<li><a href="https://github.com/DSLFoundry/mps-plaintextgen">Text Generator Plugin</a> - Alternative Textgen for JetBrains MPS using the standard model to model generation mechanisms.</li>
+<li><a href="https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar">Nyan Progress Bar</a> - Pretty progress bars for IJ based IDEs.</li>
+<li><a href="https://github.com/mbeddr/mps-qa">MPS-QA</a> - This repository contains quality assurance tooling for Jetbrains' MPS.</li>
+</ul>
+<h2 id="built-with-mps"><a href="#built-with-mps">Built with MPS</a></h2>
+<h3 id="ides">IDEs</h3>
+<p>Complete IDEs built with MPS.</p>
+<ul>
+<li><a href="https://resources.jetbrains.com/storage/products/mps/docs/MPS_DTO_Case_Study.pdf">Dutch Tax Office</a> - Domain-specific languages to implement Dutch tax legislation and process changes of that legislation.</li>
+<li><a href="https://hardella.com/en/">Hardella IDE</a> - Smart programming environment for PLC</li>
+<li><a href="https://github.com/mbeddr/mbeddr.core">mbeddr</a> - An extensible C implementation in MPS to support embedded software development.</li>
+<li><a href="https://metar-languages.github.io/">MetaR</a> - A IDE for R for people with limited computer science background.</li>
+<li><a href="https://github.com/benbehringer/peopl">PeoPL</a> - A full IDE build upon MPS to manage Software Product Lines.</li>
+<li><a href="https://sites.google.com/site/fastenroot">FASTEN</a> - An IDE for system level formal specification. A stack of DSLs built on top of SMV, verified using the NuSMV model checker.</li>
+</ul>
+<h3 id="languages">Languages</h3>
+<p>Individual languages.</p>
+<ul>
+<li><a href="https://github.com/CampagneLaboratory/ANTLR_MPS">ANTLR_MPS</a> - An ANTLR language for MPS, and the ToMPS language to help create MPS languages and ANTRL visitors from an ANTLR 4 grammar.</li>
+<li><a href="https://github.com/mar9000/ecmascript4mps">ecmascript4mps</a> - ECMAScript language implementation for JetBrains MPS.</li>
+<li><a href="https://github.com/nkoester/mps-json">MPS JSON Language</a> - A JSON implementation for MPS.</li>
+<li><a href="https://github.com/vjramirez/PlantUML">PlantUML</a> - Language for PlantUML models, also useful to generate PlantUML diagrams from custom DSL.</li>
+<li><a href="https://github.com/ftomassetti/FormatsDSL">FormatsDSL</a> - A DSL to describe formats and generate loaders.</li>
+<li><a href="https://github.com/iets3/iets3.opensource">iets3</a> - Base language for system modelling and specification including basics abstractions for  components, expression, variability, etc.</li>
+<li><a href="https://github.com/dslmeinte/mps-open-source/tree/master/mps-open-source">Web languages</a> - a collection of Web-centric, partial language implementations: JSON, JSON Schema, WSDL, XSD, SVG, CSS.</li>
+</ul>
+<h2 id="learning-mps"><a href="#learning-mps">Learning MPS</a></h2>
+<h3 id="tutorials-courses"><a href="#Courses">Tutorials / Courses</a></h3>
+<ul>
+<li><a href="https://dev.to/antoine/creating-a-simple-language-using-jetbrains-mps-c7d">Creating a simple language using JetBrains MPS</a> - The objective of this project is to construct a language to define mindmaps.</li>
+<li><a href="https://www.jetbrains.com/help/mps/fast-track-to-mps.html">Fast track tutorial</a> is the official tutorial for MPS. It will provide you with an high-level overview in 10 steps, covering all aspects of MPS at a high level.</li>
+<li><a href="https://heavymeta.tv">HeayMeta.tv</a> - A complete MPS tutorial to build your first language by @coolya with lots background information on language design.</li>
+<li><a href="https://stepik.org/course/71593/">MPS for the Impatient</a> is a free hands-on course that covers the basics of JetBrains MPS from the language designer's perspective, skipping the theoretical topics as well as the practical productivity how-tos.</li>
+<li><a href="https://github.com/markusvoelter/mpsintrocourse">MPS Intro Course by @markusvoelter</a> - A slightly advanced introduction to MPS wiht a focus on language extension.</li>
+</ul>
+<h3 id="books-and-user-guides"><a href="#Guides">Books and User Guides</a></h3>
+<ul>
+<li><a href="https://confluence.jetbrains.com/display/MPSD20182/Fast+Track+to+MPS">Fast track tutorial</a></li>
+<li><a href="https://www.springer.com/gp/book/9783030737573#aboutBook">Domain-Specific Languages in Practice with JetBrains MPS</a> - Provides an overview of the domain of language workbenches and examples in both industrial applications and research projects.</li>
+<li><a href="http://dslbook.org/">DSL Engineering</a> - Contains a detailed discussion of the concepts behind MPS in its Part III on language implementation.</li>
+<li><a href="https://www.amazon.com/gp/product/B00JFFIR1U/ref=dbs_a_def_rwt_bibl_vppi_i0">The MPS Language Workbench</a> - Introduction to the JetBrains MPS language workbench and a complete reference manual.</li>
+<li><a href="https://www.jetbrains.com/help/mps/mps-user-s-guide.html">MPS User Guide</a></li>
+<li><a href="https://coolya.github.io/maintainable-generators/">Towards Maintainable Generators</a> - Best practices for maintainable generators and a set of rules when to apply them.</li>
+</ul>
+<h2 id="community"><a href="#community">Community</a></h2>
+<h3 id="twitter"><a href="#twitter">Twitter</a></h3>
+<ul>
+<li><a href="https://twitter.com/jetbrains_mps">JetBrains MPS</a></li>
+</ul>
+<h3 id="slack"><a href="#slack">Slack</a></h3>
+<ul>
+<li><a href="http://slack-mps.jetbrains.com/">JetBrains MPS slack channel</a></li>
+</ul>
+<h3 id="websites"><a href="#websites">Websites</a></h3>
+<ul>
+<li><a href="https://www.jetbrains.com/mps/">Official Website</a></li>
+<li><a href="http://dslfoundry.com/">DSLFoundry</a> - DSLFoundry blog: howtos and articles about practical MPS usage.</li>
+<li><a href="https://languageengineering.io">languageengineering.io</a> - A blog focused in language engineering with many examples implemented using MPS.</li>
+<li><a href="https://markusvoelter.github.io/ProgrammingBasics/">Programming Basics</a> - Uses MPS to teach the basics of programming to none computer science people.</li>
+<li><a href="https://specificlanguages.com/">Specific Languages</a> - Specific Languages blog: articles about practical MPS usage.</li>
+</ul>
+<h2 id="research"><a href="#research">Research</a></h2>
+<h3 id="papers"><a href="#papers">Papers</a></h3>
+<ul>
+<li><a href="http://www.voelter.de/data/pub/MPS-in-Safety-1.0.pdf">Using Language Workbenches and Domain-Specific Languages for Safety-critical Software Development</a></li>
+<li><a href="http://www.voelter.de/data/pub/kernelf-icmt.pdf">The Design, Evolution and Use of KernelF</a> <a href="http://www.voelter.de/data/presentations/icmt2018-kernelf.pdf">Slides</a></li>
+<li><a href="http://mbeddr.com/files/dasia_wortmann.pdf">Domain-Specific Languages for Efficient Satellite Control Software Development</a></li>
+<li><a href="http://mbeddr.com/files/mbeddr-cs-oopsla2015-preprint.pdf">Using C Language Extensions for Developing Embedded Software - A Case Study</a></li>
+<li><a href="http://mbeddr.com/files/sqj_2017.pdf">Automated Testing of DSLs Implementations: Experiences from Building mbeddr</a></li>
+<li><a href="http://mbeddr.com/files/sosym_2017.pdf">Lessons Learned from Developing mbeddr - A Case Study in Language Engineering with MPS</a></li>
+<li><a href="http://mbeddr.com/files/gc-sle.pdf">Efficient Development of Consistent Projectional Editors using Grammar Cells</a></li>
+<li><a href="http://mbeddr.com/files/inca-ase.pdf">IncA: A DSL for the Definition of Incremental Program Analyses</a></li>
+<li><a href="http://mbeddr.com/files/mps-df-ase.pdf">An Extensible Framework for Variable-Precision Data-Flow Analyses in MPS</a></li>
+<li><a href="http://mbeddr.com/files/projectionalEditing-sle2014.pdf">Towards Usable Projectional Editors</a></li>
+<li><a href="https://drive.google.com/file/d/1Vf2qKteV0XdisQk1sxqdEQMw4bejeoiW/view">Taming the Software Development Complexity with Domain Specific Languages</a></li>
+</ul>
+<h2 id="contributing">Contributing</h2>
+<p>Your contributions are always welcome! Please take a look at the <a href="https://github.com/coolya/mps.rocks/blob/master/CONTRIBUTING">contribution guidelines</a> first.</p>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+        
+      </main>
+      
+        
+<footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+        
+      </div>
+      
+  <div class="md-footer-social">
+    
+      
+      
+        
+        
+      
+      <a href="https://github.com/coolya" target="_blank" rel="noopener" title="github.com" class="md-footer-social__link">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+      </a>
+    
+      
+      
+        
+        
+      
+      <a href="https://twitter.com/dumdidum" target="_blank" rel="noopener" title="twitter.com" class="md-footer-social__link">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>
+      </a>
+    
+  </div>
+
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": ".", "features": [], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "assets/javascripts/workers/search.b0710199.min.js", "version": null}</script>
+    
+    
+      <script src="assets/javascripts/bundle.76f349be.min.js"></script>
+      
+    
+  </body>
+</html>
