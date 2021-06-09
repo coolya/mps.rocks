@@ -30,5 +30,5 @@ jobs:
       run: |
         ln -sf ${GITHUB_WORKSPACE}/README.md ${GITHUB_WORKSPACE}/docs/index.md
         git remote add gh-pages https://x-access-token:${GITHUB_TOKEN}@github.com/coolya/mps.rocks.git
-        git pull gh-pages gh-pages
+        git fetch gh-pages
         mkdocs gh-deploy --clean -r gh-pages
