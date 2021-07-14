@@ -84,6 +84,7 @@ Individual languages.
 - [HeayMeta.tv](https://heavymeta.tv) - A complete MPS tutorial to build your first language by @coolya with lots background information on language design.
 - [MPS for the Impatient](https://stepik.org/course/71593/) is a free hands-on course that covers the basics of JetBrains MPS from the language designer's perspective, skipping the theoretical topics as well as the practical productivity how-tos.
 - [MPS Intro Course by @markusvoelter](https://github.com/markusvoelter/mpsintrocourse) - A slightly advanced introduction to MPS wiht a focus on language extension.
+- [MPS Office Hours](https://specificlanguages.com/mps-office-hours/) - A weekly one-hour Zoom meeting where you can share your screen and get help.
 
 ### [Books and User Guides](#Guides)
 
