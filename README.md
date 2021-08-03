@@ -24,7 +24,7 @@ To get stated we suggest to look at the tutorials in the following order:
 - [MPS Intro Course by @markusvoelter](https://github.com/markusvoelter/mpsintrocourse) is an advanced introduction to MPS in the form of multiple videos as well as a github repository to play around with. It also covers extensions to MPS such as additional notations or the interpreter framework.
 - If you are specificity looking for input on how to build generators [this guide](https://coolya.github.io/maintainable-generators/) contains a set of best practices.
 - The [DSL Engineering Book](http://dslbook.org/) contains detailed discussions of the concepts behind MPS in its Part III on language implementation.
-- For more details on specific MPS topics we refer to [2 books on MPS](http://campagnelab.org/publications/our-books/) as well as the official [MPS User Guide](https://confluence.jetbrains.com/display/MPSD20173/MPS+User%27s+Guide)
+- For more details on specific MPS topics we refer to The MPS Language Workbench Book ([Volume I](https://www.amazon.com/dp/B00JFFIR1U/), [Volume II](https://www.amazon.com/dp/B01GOHUEPS/)) as well as the official [MPS User Guide](https://confluence.jetbrains.com/display/MPSD20173/MPS+User%27s+Guide)
 
 [Learning](#learning-mps) contains a list of even more tutorials. In addition [Research](#research) contains a list academic papers that make heavy use of MPS.
 
