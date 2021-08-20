@@ -128,6 +128,7 @@ Individual languages.
 
 ### [Papers](#papers)
 - [Classification Algorithms Framework (CAF) to Enable Intelligent Systems Using JetBrains MPS Domain-Specific Languages Environment](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8959196)
+- [JetBrains MPS as Core DSL Technology for Developing Professional Digital Printers](https://link.springer.com/chapter/10.1007%2F978-3-030-73758-0_3)
 - [Using Language Workbenches and Domain-Specific Languages for Safety-critical Software Development](http://www.voelter.de/data/pub/MPS-in-Safety-1.0.pdf)
 - [The Design, Evolution and Use of KernelF](http://www.voelter.de/data/pub/kernelf-icmt.pdf) [Slides](http://www.voelter.de/data/presentations/icmt2018-kernelf.pdf)
 - [Domain-Specific Languages for Efficient Satellite Control Software Development](http://mbeddr.com/files/dasia_wortmann.pdf)
