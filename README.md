@@ -43,6 +43,7 @@ Plugins that improve MPS.
 - [digitalember.extensions](https://github.com/digital-ember/digitalember.extensions) - MPS baseLanguage editor extensions for better readability.
 - [Durchblick](https://github.com/coolya/Durchblick) - Simplified editors to increase readability of generators.
 - [Editor2PDF](https://github.com/CampagneLaboratory/Editor2PDF) - Serialises editor into PDF files
+- [Language visualizer](https://jetbrains.github.io/MPS-extensions/extensions/langvis) - A JetBrains MPS plugin to visualize the structure of a language.
 - [MPS Extensions](https://github.com/JetBrains/MPS-extensions) - Various extensions to simplify language development.
 - [MPS gradle plugin](https://github.com/mbeddr/mps-gradle-plugin) - A Gradle plugin to build & test langauges and to support various tasks related to custom RCP packaging.
 - [ingrid](https://github.com/premun/ingrid) - Ingrid is a plugin for JetBrains MPS allowing import of ANTLRv4 grammars and create an MPS language out of it.
