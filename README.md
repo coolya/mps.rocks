@@ -116,6 +116,7 @@ Individual languages.
 - [languageengineering.io](https://languageengineering.io) - A blog focused in language engineering with many examples implemented using MPS.
 - [Programming Basics](https://markusvoelter.github.io/ProgrammingBasics/) - Uses MPS to teach the basics of programming to none computer science people.
 - [Specific Languages](https://specificlanguages.com/) - Specific Languages blog: articles about practical MPS usage.
+- [Strumenta](https://tomassetti.me/category/language-engineering/jetbrains-mps/) Strumenta blog: articles about MPS and language engineering in general.
 
 ## [Research](#research)
 
