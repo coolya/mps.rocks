@@ -140,6 +140,8 @@ Individual languages.
 - [Towards Usable Projectional Editors](http://mbeddr.com/files/projectionalEditing-sle2014.pdf)
 - [Taming the Software Development Complexity with Domain Specific Languages](https://drive.google.com/file/d/1Vf2qKteV0XdisQk1sxqdEQMw4bejeoiW/view)
 
+### Talks / Videos
+
 ## Contributing
 
  Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/coolya/mps.rocks/blob/master/CONTRIBUTING) first.
