@@ -78,6 +78,7 @@ Individual languages.
 - [iets3](https://github.com/iets3/iets3.opensource) - Base language for system modelling and specification including basics abstractions for  components, expression, variability, etc.
 - [Web languages](https://github.com/dslmeinte/mps-open-source/tree/master/mps-open-source) - a collection of Web-centric, partial language implementations: JSON, JSON Schema, WSDL, XSD, SVG, CSS.
 - [CsBaseLanguage] (https://github.com/vaclav/mpscs) - An implementation of the C# 5.0 language.
+- [DclareForMPS] (https://github.com/ModelingValueGroup/DclareForMPS) - Support for the dclare engine in MPS.
 
 ### Other projects
 
