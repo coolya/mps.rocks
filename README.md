@@ -37,7 +37,7 @@ To get stated we suggest to look at the tutorials in the following order:
 ### Plugins
 
 Plugins that improve MPS.
-
+- [Build Script Notifier](https://plugins.jetbrains.com/plugin/15203-build-script-notifier) - Fix your build scripts with one click when module dependencies change.
 - [Grammar Cells](http://mbeddr.com/files/gc-sle.pdf) - An extension to the editor language of MPS. It will help you to create consistent and well-behaving textual notations in MPS with no effort.
 - [mps-code-reviewer](https://github.com/Workday/mps-code-reviewer) - Code Review for JetBrains MPS providing integration with Bitbucket
 - [digitalember.extensions](https://github.com/digital-ember/digitalember.extensions) - MPS baseLanguage editor extensions for better readability.
