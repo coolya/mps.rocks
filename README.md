@@ -141,6 +141,7 @@ Individual languages.
 ### Talks / Videos
 - [MPS Talk Series 2021](https://pages.jetbrains.com/mpstalkseries2021) - The MPS Talk Series was a free virtual event organized by JetBrains and itemis that took place in February 2021.
 - [JetBrains MPS as a Tool for Extending Java (Vladimir Kozhaev, Freelancer)](https://www.youtube.com/watch?v=7JTPogrzYwE)
+- [JetBrains Tv MPS Playlist] (https://www.youtube.com/playlist?list=PLQ176FUIyIUYWfVn1BulLIJXILHUI8t9) - Official videos by JetBrains on MPS.
 
 ## Contributing
 
