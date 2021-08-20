@@ -76,6 +76,10 @@ Individual languages.
 - [iets3](https://github.com/iets3/iets3.opensource) - Base language for system modelling and specification including basics abstractions for  components, expression, variability, etc.
 - [Web languages](https://github.com/dslmeinte/mps-open-source/tree/master/mps-open-source) - a collection of Web-centric, partial language implementations: JSON, JSON Schema, WSDL, XSD, SVG, CSS.
 
+### Other projects
+
+- [Modelix](https://modelix.github.io/) Modelix is a open source platform that aims to bring modeling on the web.
+
 ## [Learning MPS](#learning-mps)
 
 ### [Tutorials / Courses](#Courses)
