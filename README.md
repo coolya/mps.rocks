@@ -84,6 +84,7 @@ Individual languages.
 
 - [Modelix](https://modelix.github.io/) - Modelix is a open source platform that aims to bring modeling on the web.
 - [Skadi Cloud](https://skadi.cloud/) - An experiment with Projector to put JetBrains MPS into the browser.
+- [MPS CodeRules](https://jetbrains.github.io/mps-coderules/about) - New typesystem from JetBrains for MPS. Uses logic programming.
 
 ## [Learning MPS](#learning-mps)
 
