@@ -46,7 +46,7 @@ Plugins that improve MPS.
 - [MPS Extensions](https://github.com/JetBrains/MPS-extensions) - Various extensions to simplify language development.
 - [MPS gradle plugin](https://github.com/mbeddr/mps-gradle-plugin) - A Gradle plugin to build & test langauges and to support various tasks related to custom RCP packaging.
 - [ingrid](https://github.com/premun/ingrid) - Ingrid is a plugin for JetBrains MPS allowing import of ANTLRv4 grammars and create an MPS language out of it.
-- [Text Generator Plugin](https://github.com/DSLFoundry/mps-plaintextgen) - Alternative Textgen for JetBrains MPS using the standard model to model generation mechanisms.
+- [Text Generator Plugin](https://jetbrains.github.io/MPS-extensions/extensions/plaintext-gen/) - Alternative Textgen for JetBrains MPS using the standard model to model generation mechanisms.
 - [Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar) - Pretty progress bars for IJ based IDEs.
 - [MPS-QA](https://github.com/mbeddr/mps-qa) - This repository contains quality assurance tooling for Jetbrains' MPS.
 
