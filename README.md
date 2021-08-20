@@ -50,7 +50,7 @@ Plugins that improve MPS.
 - [Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar) - Pretty progress bars for IJ based IDEs.
 - [MPS-QA](https://github.com/mbeddr/mps-qa) - This repository contains quality assurance tooling for Jetbrains' MPS.
 - [MPS BaseLanguage Extensions](https://plugins.jetbrains.com/plugin/7101-mps-baselanguage-extensions) - A set of handy extensions to BaseLanguage, such as tail recursion optimization and function memoization
-- [https://plugins.jetbrains.com/plugin/12325-langdoc](https://plugins.jetbrains.com/plugin/12325-langdoc) - This plugin allows arbitrary nodes in your models to be annotated with documentation text. 
+- [langdoc](https://plugins.jetbrains.com/plugin/12325-langdoc) - This plugin allows arbitrary nodes in your models to be annotated with documentation text. 
 - [Shadow Models](https://voelter.de/data/pub/SLE2019.pdf) - Shadow Models is an incremental transformation framework
 for MPS.
 ## [Built with MPS](#built-with-mps)
