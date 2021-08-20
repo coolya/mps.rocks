@@ -38,8 +38,8 @@ To get stated we suggest to look at the tutorials in the following order:
 
 Plugins that improve MPS.
 
-- [Grammar Cells](http://mbeddr.com/files/gc-sle.pdf) An extension to the editor language of MPS. It will help you to create consistent and well-behaving textual notations in MPS with no effort.
-- [Shadow Models](https://voelter.de/data/pub/SLE2019.pdf) Shadow Models is an incremental transformation framework
+- [Grammar Cells](http://mbeddr.com/files/gc-sle.pdf) - An extension to the editor language of MPS. It will help you to create consistent and well-behaving textual notations in MPS with no effort.
+- [Shadow Models](https://voelter.de/data/pub/SLE2019.pdf) - Shadow Models is an incremental transformation framework
 for MPS.
 - [mps-code-reviewer](https://github.com/Workday/mps-code-reviewer) - Code Review for JetBrains MPS providing integration with Bitbucket
 - [digitalember.extensions](https://github.com/digital-ember/digitalember.extensions) - MPS baseLanguage editor extensions for better readability.
@@ -79,8 +79,8 @@ Individual languages.
 
 ### Other projects
 
-- [Modelix](https://modelix.github.io/) Modelix is a open source platform that aims to bring modeling on the web.
-- [Skadi Cloud](https://skadi.cloud/) An experiment with Projector to put JetBrains MPS into the browser.
+- [Modelix](https://modelix.github.io/) - Modelix is a open source platform that aims to bring modeling on the web.
+- [Skadi Cloud](https://skadi.cloud/) - An experiment with Projector to put JetBrains MPS into the browser.
 
 ## [Learning MPS](#learning-mps)
 
@@ -118,7 +118,7 @@ Individual languages.
 - [languageengineering.io](https://languageengineering.io) - A blog focused in language engineering with many examples implemented using MPS.
 - [Programming Basics](https://markusvoelter.github.io/ProgrammingBasics/) - Uses MPS to teach the basics of programming to none computer science people.
 - [Specific Languages](https://specificlanguages.com/) - Specific Languages blog: articles about practical MPS usage.
-- [Strumenta](https://tomassetti.me/category/language-engineering/jetbrains-mps/) Strumenta blog: articles about MPS and language engineering in general.
+- [Strumenta](https://tomassetti.me/category/language-engineering/jetbrains-mps/) - Strumenta blog: articles about MPS and language engineering in general.
 
 ## [Research](#research)
 
