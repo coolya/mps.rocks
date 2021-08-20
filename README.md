@@ -61,6 +61,7 @@ for MPS.
 Complete IDEs built with MPS.
 
 - [Dutch Tax Office](https://resources.jetbrains.com/storage/products/mps/docs/MPS_DTO_Case_Study.pdf) - Domain-specific languages to implement Dutch tax legislation and process changes of that legislation.
+- [FBME](https://github.com/JetBrains/fbme) - FBME (Function Blocks Modelling Environment) is an IDE for IEC 61499 standard built on top of JetBrains MPS language workbench.
 - [Hardella IDE](https://hardella.com/en/) - Smart programming environment for PLC
 - [mbeddr](https://github.com/mbeddr/mbeddr.core) - An extensible C implementation in MPS to support embedded software development.
 - [MetaR](https://metar-languages.github.io/) - A IDE for R for people with limited computer science background.
