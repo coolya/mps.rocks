@@ -71,8 +71,8 @@ Complete IDEs built with MPS.
 Individual languages.
 
 - [ANTLR_MPS](https://github.com/CampagneLaboratory/ANTLR_MPS) - An ANTLR language for MPS, and the ToMPS language to help create MPS languages and ANTRL visitors from an ANTLR 4 grammar.
-- [CsBaseLanguage] (https://github.com/vaclav/mpscs) - An implementation of the C# 5.0 language.
-- [DclareForMPS] (https://github.com/ModelingValueGroup/DclareForMPS) - Support for the dclare engine in MPS.
+- [CsBaseLanguage](https://github.com/vaclav/mpscs) - An implementation of the C# 5.0 language.
+- [DclareForMPS](https://github.com/ModelingValueGroup/DclareForMPS) - Support for the dclare engine in MPS.
 - [ecmascript4mps](https://github.com/mar9000/ecmascript4mps) - ECMAScript language implementation for JetBrains MPS.
 - [MPS JSON Language](https://github.com/nkoester/mps-json) - A JSON implementation for MPS.
 - [PlantUML](https://github.com/vjramirez/PlantUML) - Language for PlantUML models, also useful to generate PlantUML diagrams from custom DSL.
