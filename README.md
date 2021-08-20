@@ -39,6 +39,8 @@ To get stated we suggest to look at the tutorials in the following order:
 Plugins that improve MPS.
 
 - [Grammar Cells](http://mbeddr.com/files/gc-sle.pdf) An extension to the editor language of MPS. It will help you to create consistent and well-behaving textual notations in MPS with no effort.
+- [Shadow Models](https://voelter.de/data/pub/SLE2019.pdf) Shadow Models is an incremental transformation framework
+for MPS.
 - [mps-code-reviewer](https://github.com/Workday/mps-code-reviewer) - Code Review for JetBrains MPS providing integration with Bitbucket
 - [digitalember.extensions](https://github.com/digital-ember/digitalember.extensions) - MPS baseLanguage editor extensions for better readability.
 - [Durchblick](https://github.com/coolya/Durchblick) - Simplified editors to increase readability of generators.
