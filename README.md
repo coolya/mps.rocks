@@ -118,6 +118,7 @@ Individual languages.
 ### [Websites](#websites)
 - [DSLFoundry](http://dslfoundry.com/) - DSLFoundry blog: howtos and articles about practical MPS usage.
 - [languageengineering.io](https://languageengineering.io) - A blog focused in language engineering with many examples implemented using MPS.
+- [log verbose](https://blog.logv.ws/tag/mps/) - The repositor owner's own blog posts on MPS.
 - [Official Website](https://www.jetbrains.com/mps/)
 - [Programming Basics](https://markusvoelter.github.io/ProgrammingBasics/) - Uses MPS to teach the basics of programming to none computer science people.
 - [Specific Languages](https://specificlanguages.com/) - Specific Languages blog: articles about practical MPS usage.
@@ -126,7 +127,7 @@ Individual languages.
 ## [Research](#research)
 
 ### [Papers](#papers)
-
+- [Classification Algorithms Framework (CAF) to Enable Intelligent Systems Using JetBrains MPS Domain-Specific Languages Environment](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8959196)
 - [Using Language Workbenches and Domain-Specific Languages for Safety-critical Software Development](http://www.voelter.de/data/pub/MPS-in-Safety-1.0.pdf)
 - [The Design, Evolution and Use of KernelF](http://www.voelter.de/data/pub/kernelf-icmt.pdf) [Slides](http://www.voelter.de/data/presentations/icmt2018-kernelf.pdf)
 - [Domain-Specific Languages for Efficient Satellite Control Software Development](http://mbeddr.com/files/dasia_wortmann.pdf)
