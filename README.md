@@ -139,6 +139,7 @@ Individual languages.
 - [Taming the Software Development Complexity with Domain Specific Languages](https://drive.google.com/file/d/1Vf2qKteV0XdisQk1sxqdEQMw4bejeoiW/view)
 
 ### Talks / Videos
+- [GeeCON Prague 2017: why modern language workbenches matter](https://www.youtube.com/watch?v=FK4N4u9tlqw) - Talk by Vaclav Pech  about MPS.
 - [MPS Talk Series 2021](https://pages.jetbrains.com/mpstalkseries2021) - The MPS Talk Series was a free virtual event organized by JetBrains and itemis that took place in February 2021.
 - [JetBrains MPS as a Tool for Extending Java (Vladimir Kozhaev, Freelancer)](https://www.youtube.com/watch?v=7JTPogrzYwE)
 - [JetBrains Tv MPS Playlist] (https://www.youtube.com/playlist?list=PLQ176FUIyIUYWfVn1BulLIJXILHUI8t9) - Official videos by JetBrains on MPS.
