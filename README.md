@@ -141,6 +141,7 @@ Individual languages.
 - [Taming the Software Development Complexity with Domain Specific Languages](https://drive.google.com/file/d/1Vf2qKteV0XdisQk1sxqdEQMw4bejeoiW/view)
 
 ### Talks / Videos
+- [JetBrains MPS as a Tool for Extending Java (Vladimir Kozhaev, Freelancer)](https://www.youtube.com/watch?v=7JTPogrzYwE)
 - [MPS Talk Series 2021](https://pages.jetbrains.com/mpstalkseries2021) - The MPS Talk Series was a free virtual event organized by JetBrains and itemis that took place in February 2021.
 
 ## Contributing
