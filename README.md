@@ -82,8 +82,9 @@ Individual languages.
 
 ### Other projects
 
-- [Modelix](https://modelix.github.io/) - Modelix is a open source platform that aims to bring modeling on the web.
+- [Modelix](https://modelix.github.io/) - Modelix is a open source plat form that aims to bring modeling on the web.
 - [MPS CodeRules](https://jetbrains.github.io/mps-coderules/about) - New typesystem from JetBrains for MPS. Uses logic programming.
+- [MPSServer](https://github.com/strumenta/mpsserver) - Atool to make MPS accessible remotely.
 - [Skadi Cloud](https://skadi.cloud/) - An experiment with Projector to put JetBrains MPS into the browser.
 
 ## [Learning MPS](#learning-mps)
