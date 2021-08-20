@@ -39,8 +39,6 @@ To get stated we suggest to look at the tutorials in the following order:
 Plugins that improve MPS.
 
 - [Grammar Cells](http://mbeddr.com/files/gc-sle.pdf) - An extension to the editor language of MPS. It will help you to create consistent and well-behaving textual notations in MPS with no effort.
-- [Shadow Models](https://voelter.de/data/pub/SLE2019.pdf) - Shadow Models is an incremental transformation framework
-for MPS.
 - [mps-code-reviewer](https://github.com/Workday/mps-code-reviewer) - Code Review for JetBrains MPS providing integration with Bitbucket
 - [digitalember.extensions](https://github.com/digital-ember/digitalember.extensions) - MPS baseLanguage editor extensions for better readability.
 - [Durchblick](https://github.com/coolya/Durchblick) - Simplified editors to increase readability of generators.
@@ -53,7 +51,8 @@ for MPS.
 - [MPS-QA](https://github.com/mbeddr/mps-qa) - This repository contains quality assurance tooling for Jetbrains' MPS.
 - [MPS BaseLanguage Extensions](https://plugins.jetbrains.com/plugin/7101-mps-baselanguage-extensions) - A set of handy extensions to BaseLanguage, such as tail recursion optimization and function memoization
 - [https://plugins.jetbrains.com/plugin/12325-langdoc](https://plugins.jetbrains.com/plugin/12325-langdoc) - This plugin allows arbitrary nodes in your models to be annotated with documentation text. 
-
+- [Shadow Models](https://voelter.de/data/pub/SLE2019.pdf) - Shadow Models is an incremental transformation framework
+for MPS.
 ## [Built with MPS](#built-with-mps)
 
 ### IDEs
@@ -71,20 +70,20 @@ Complete IDEs built with MPS.
 Individual languages.
 
 - [ANTLR_MPS](https://github.com/CampagneLaboratory/ANTLR_MPS) - An ANTLR language for MPS, and the ToMPS language to help create MPS languages and ANTRL visitors from an ANTLR 4 grammar.
+- [CsBaseLanguage] (https://github.com/vaclav/mpscs) - An implementation of the C# 5.0 language.
+- [DclareForMPS] (https://github.com/ModelingValueGroup/DclareForMPS) - Support for the dclare engine in MPS.
 - [ecmascript4mps](https://github.com/mar9000/ecmascript4mps) - ECMAScript language implementation for JetBrains MPS.
 - [MPS JSON Language](https://github.com/nkoester/mps-json) - A JSON implementation for MPS.
 - [PlantUML](https://github.com/vjramirez/PlantUML) - Language for PlantUML models, also useful to generate PlantUML diagrams from custom DSL.
 - [FormatsDSL](https://github.com/ftomassetti/FormatsDSL) - A DSL to describe formats and generate loaders.
 - [iets3](https://github.com/iets3/iets3.opensource) - Base language for system modelling and specification including basics abstractions for  components, expression, variability, etc.
 - [Web languages](https://github.com/dslmeinte/mps-open-source/tree/master/mps-open-source) - a collection of Web-centric, partial language implementations: JSON, JSON Schema, WSDL, XSD, SVG, CSS.
-- [CsBaseLanguage] (https://github.com/vaclav/mpscs) - An implementation of the C# 5.0 language.
-- [DclareForMPS] (https://github.com/ModelingValueGroup/DclareForMPS) - Support for the dclare engine in MPS.
 
 ### Other projects
 
 - [Modelix](https://modelix.github.io/) - Modelix is a open source platform that aims to bring modeling on the web.
-- [Skadi Cloud](https://skadi.cloud/) - An experiment with Projector to put JetBrains MPS into the browser.
 - [MPS CodeRules](https://jetbrains.github.io/mps-coderules/about) - New typesystem from JetBrains for MPS. Uses logic programming.
+- [Skadi Cloud](https://skadi.cloud/) - An experiment with Projector to put JetBrains MPS into the browser.
 
 ## [Learning MPS](#learning-mps)
 
@@ -102,9 +101,9 @@ Individual languages.
 - [Domain-Specific Languages in Practice with JetBrains MPS](https://www.springer.com/gp/book/9783030737573#aboutBook) - Provides an overview of the domain of language workbenches and examples in both industrial applications and research projects.
 - [DSL Engineering](http://dslbook.org/) - Contains a detailed discussion of the concepts behind MPS in its Part III on language implementation.
 - [The MPS Language Workbench](https://www.amazon.com/gp/product/B00JFFIR1U/ref=dbs_a_def_rwt_bibl_vppi_i0) - Introduction to the JetBrains MPS language workbench and a complete reference manual.
-- [MPS User Guide](https://www.jetbrains.com/help/mps/mps-user-s-guide.html)
 - [Towards Maintainable Generators](https://coolya.github.io/maintainable-generators/) - Best practices for maintainable generators and a set of rules when to apply them.
-
+- [MPS User Guide](https://www.jetbrains.com/help/mps/mps-user-s-guide.html)
+- 
 ## [Community](#community)
 
 ### [Twitter](#twitter)
@@ -116,10 +115,9 @@ Individual languages.
 - [JetBrains MPS slack channel](http://slack-mps.jetbrains.com/)
 
 ### [Websites](#websites)
-
-- [Official Website](https://www.jetbrains.com/mps/)
 - [DSLFoundry](http://dslfoundry.com/) - DSLFoundry blog: howtos and articles about practical MPS usage.
 - [languageengineering.io](https://languageengineering.io) - A blog focused in language engineering with many examples implemented using MPS.
+- [Official Website](https://www.jetbrains.com/mps/)
 - [Programming Basics](https://markusvoelter.github.io/ProgrammingBasics/) - Uses MPS to teach the basics of programming to none computer science people.
 - [Specific Languages](https://specificlanguages.com/) - Specific Languages blog: articles about practical MPS usage.
 - [Strumenta](https://tomassetti.me/category/language-engineering/jetbrains-mps/) - Strumenta blog: articles about MPS and language engineering in general.
@@ -141,8 +139,8 @@ Individual languages.
 - [Taming the Software Development Complexity with Domain Specific Languages](https://drive.google.com/file/d/1Vf2qKteV0XdisQk1sxqdEQMw4bejeoiW/view)
 
 ### Talks / Videos
-- [JetBrains MPS as a Tool for Extending Java (Vladimir Kozhaev, Freelancer)](https://www.youtube.com/watch?v=7JTPogrzYwE)
 - [MPS Talk Series 2021](https://pages.jetbrains.com/mpstalkseries2021) - The MPS Talk Series was a free virtual event organized by JetBrains and itemis that took place in February 2021.
+- [JetBrains MPS as a Tool for Extending Java (Vladimir Kozhaev, Freelancer)](https://www.youtube.com/watch?v=7JTPogrzYwE)
 
 ## Contributing
 
