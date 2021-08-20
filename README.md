@@ -53,6 +53,7 @@ Plugins that improve MPS.
 - [langdoc](https://plugins.jetbrains.com/plugin/12325-langdoc) - This plugin allows arbitrary nodes in your models to be annotated with documentation text. 
 - [Shadow Models](https://voelter.de/data/pub/SLE2019.pdf) - Shadow Models is an incremental transformation framework
 for MPS.
+- [Stubs Generator](https://github.com/wirthma/StubsGenerator) - Stubs Generator is a plugin to Jetbrains MPS which allows easy creation of generators of library stubs for custom MPS languages. 
 ## [Built with MPS](#built-with-mps)
 
 ### IDEs
