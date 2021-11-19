@@ -77,15 +77,15 @@ Individual languages.
 - [ANTLR_MPS](https://github.com/CampagneLaboratory/ANTLR_MPS) - An ANTLR language for MPS, and the ToMPS language to help create MPS languages and ANTRL visitors from an ANTLR 4 grammar.
 - [CsBaseLanguage](https://github.com/vaclav/mpscs) - An implementation of the C# 5.0 language.
 - [DclareForMPS](https://github.com/ModelingValueGroup/DclareForMPS) - Support for the dclare engine in MPS.
+- [D-Flat](https://github.com/DSLFoundry/mps-dflat) - C# language implementation prototype for JetBrains MPS.
 - [ecmascript4mps](https://github.com/mar9000/ecmascript4mps) - ECMAScript language implementation for JetBrains MPS.
+- [mbeddr.cpp](https://github.com/DSLFoundry/mbeddr.cpp) - C++ language implementation prototype for JetBrains MPS, built as an extension on mbeddr.core (C language).
 - [MPS JSON Language](https://github.com/nkoester/mps-json) - A JSON implementation for MPS.
 - [PlantUML](https://github.com/vjramirez/PlantUML) - Language for PlantUML models, also useful to generate PlantUML diagrams from custom DSL.
 - [FormatsDSL](https://github.com/ftomassetti/FormatsDSL) - A DSL to describe formats and generate loaders.
 - [iets3](https://github.com/iets3/iets3.opensource) - Base language for system modelling and specification including basics abstractions for  components, expression, variability, etc.
 - [Voice Menu](https://github.com/vaclav/voicemenu) - A voice menu language and a Java simulator built using JetBrains MPS.
 - [Web languages](https://github.com/dslmeinte/mps-open-source/tree/master/mps-open-source) - a collection of Web-centric, partial language implementations: JSON, JSON Schema, WSDL, XSD, SVG, CSS.
-- [mbeddr.cpp](https://github.com/DSLFoundry/mbeddr.cpp) - C++ language implementation prototype for JetBrains MPS, built as an extension on mbeddr.core (C language).
-- [D-Flat](https://github.com/DSLFoundry/mps-dflat) - C# language implementation prototype for JetBrains MPS.
 
 ### Other projects
 
@@ -114,8 +114,8 @@ Individual languages.
 - [DSL Engineering](http://dslbook.org/) - Contains a detailed discussion of the concepts behind MPS in its Part III on language implementation.
 - [The MPS Language Workbench](https://www.amazon.com/gp/product/B00JFFIR1U/ref=dbs_a_def_rwt_bibl_vppi_i0) - Introduction to the JetBrains MPS language workbench and a complete reference manual.
 - [Towards Maintainable Generators](https://coolya.github.io/maintainable-generators/) - Best practices for maintainable generators and a set of rules when to apply them.
+- [MPS OpenAPI Documentation](https://alexanderpann.github.io/mps-openapi-doc/)
 - [MPS User Guide](https://www.jetbrains.com/help/mps/mps-user-s-guide.html)
-- [MPS OpenAPI Documentation](https://www.jetbrains.com/help/mps/mps-user-s-guide.html)
 
 ## [Community](#community)
 
