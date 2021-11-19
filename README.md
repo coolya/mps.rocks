@@ -84,10 +84,12 @@ Individual languages.
 - [iets3](https://github.com/iets3/iets3.opensource) - Base language for system modelling and specification including basics abstractions for  components, expression, variability, etc.
 - [Voice Menu](https://github.com/vaclav/voicemenu) - A voice menu language and a Java simulator built using JetBrains MPS.
 - [Web languages](https://github.com/dslmeinte/mps-open-source/tree/master/mps-open-source) - a collection of Web-centric, partial language implementations: JSON, JSON Schema, WSDL, XSD, SVG, CSS.
+- [mbeddr.cpp](https://github.com/DSLFoundry/mbeddr.cpp) - C++ language implementation prototype for JetBrains MPS, built as an extension on mbeddr.core (C language).
+- [D-Flat](https://github.com/DSLFoundry/mps-dflat) - C# language implementation prototype for JetBrains MPS.
 
 ### Other projects
 
-- [Modelix](https://modelix.github.io/) - Modelix is a open source plat form that aims to bring modeling on the web.
+- [Modelix](https://modelix.github.io/) - Modelix is a open source platform that aims to bring modeling on the web.
 - [MPS CodeRules](https://jetbrains.github.io/mps-coderules/about) - New typesystem from JetBrains for MPS. Uses logic programming.
 - [MPSGotchas](https://alexanderpann.github.io/mps-gotchas/) - A website that answers some common questions about MPS and shows common gotchas and pitfalls.
 - [MPSServer](https://github.com/strumenta/mpsserver) - A tool to make MPS accessible remotely.
@@ -113,6 +115,7 @@ Individual languages.
 - [The MPS Language Workbench](https://www.amazon.com/gp/product/B00JFFIR1U/ref=dbs_a_def_rwt_bibl_vppi_i0) - Introduction to the JetBrains MPS language workbench and a complete reference manual.
 - [Towards Maintainable Generators](https://coolya.github.io/maintainable-generators/) - Best practices for maintainable generators and a set of rules when to apply them.
 - [MPS User Guide](https://www.jetbrains.com/help/mps/mps-user-s-guide.html)
+- [MPS OpenAPI Documentation](https://www.jetbrains.com/help/mps/mps-user-s-guide.html)
 
 ## [Community](#community)
 
