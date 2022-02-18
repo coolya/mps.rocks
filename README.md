@@ -44,7 +44,7 @@ Plugins that improve MPS.
 - [Editor2PDF](https://github.com/CampagneLaboratory/Editor2PDF) - Serialises editor into PDF files
 - [Grammar Cells](http://mbeddr.com/files/gc-sle.pdf) - An extension to the editor language of MPS. It will help you to create consistent and well-behaving textual notations in MPS with no effort.
 - [ingrid](https://github.com/premun/ingrid) - Ingrid is a plugin for JetBrains MPS allowing import of ANTLRv4 grammars and create an MPS language out of it.
-- [langdoc](https://plugins.jetbrains.com/plugin/12325-langdoc) - This plugin allows arbitrary nodes in your models to be annotated with documentation text. 
+- [langdoc](https://plugins.jetbrains.com/plugin/12325-langdoc) - This plugin allows arbitrary nodes in your models to be annotated with documentation text.
 - [Language visualizer](https://jetbrains.github.io/MPS-extensions/extensions/langvis) - A JetBrains MPS plugin to visualize the structure of a language.
 - [MPS BaseLanguage Extensions](https://plugins.jetbrains.com/plugin/7101-mps-baselanguage-extensions) - A set of handy extensions to BaseLanguage, such as tail recursion optimization and function memoization
 - [mps-code-reviewer](https://github.com/Workday/mps-code-reviewer) - Code Review for JetBrains MPS providing integration with Bitbucket
@@ -54,7 +54,7 @@ Plugins that improve MPS.
 - [Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar) - Pretty progress bars for IJ based IDEs.
 - [Shadow Models](https://voelter.de/data/pub/SLE2019.pdf) - Shadow Models is an incremental transformation framework
 for MPS.
-- [Stubs Generator](https://github.com/wirthma/StubsGenerator) - Stubs Generator is a plugin to Jetbrains MPS which allows easy creation of generators of library stubs for custom MPS languages. 
+- [Stubs Generator](https://github.com/wirthma/StubsGenerator) - Stubs Generator is a plugin to Jetbrains MPS which allows easy creation of generators of library stubs for custom MPS languages.
 - [skadi gist](https://github.com/skadi-cloud/gist) - Share MPS code snippets via the browser.
 - [Text Generator Plugin](https://jetbrains.github.io/MPS-extensions/extensions/plaintext-gen/) - Alternative Textgen for JetBrains MPS using the standard model to model generation mechanisms.
 ## [Built with MPS](#built-with-mps)
@@ -95,6 +95,7 @@ Individual languages.
 - [MPSServer](https://github.com/strumenta/mpsserver) - A tool to make MPS accessible remotely.
 - [Skadi Cloud](https://skadi.cloud/) - An experiment with Projector to put JetBrains MPS into the browser.
 - [WebEditKit](https://github.com/strumenta/webeditkit) - This is a framework for creating projectional editors which interact with JetBrains MPS.
+- [mpsZooKeeper.sh](https://github.com/nkoester/mps-zookeeper) - Helper script to generate an isolated configuration prefix for isolated MPS instances.
 
 
 ## [Learning MPS](#learning-mps)
