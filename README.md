@@ -93,9 +93,9 @@ Individual languages.
 - [MPS CodeRules](https://jetbrains.github.io/mps-coderules/about) - New typesystem from JetBrains for MPS. Uses logic programming.
 - [MPSGotchas](https://alexanderpann.github.io/mps-gotchas/) - A website that answers some common questions about MPS and shows common gotchas and pitfalls.
 - [MPSServer](https://github.com/strumenta/mpsserver) - A tool to make MPS accessible remotely.
+- [mpsZooKeeper.sh](https://github.com/nkoester/mps-zookeeper) - Helper script to generate an isolated configuration prefix for isolated MPS instances.
 - [Skadi Cloud](https://skadi.cloud/) - An experiment with Projector to put JetBrains MPS into the browser.
 - [WebEditKit](https://github.com/strumenta/webeditkit) - This is a framework for creating projectional editors which interact with JetBrains MPS.
-- [mpsZooKeeper.sh](https://github.com/nkoester/mps-zookeeper) - Helper script to generate an isolated configuration prefix for isolated MPS instances.
 
 
 ## [Learning MPS](#learning-mps)
