@@ -130,6 +130,7 @@ Individual languages.
 
 ### [Websites](#websites)
 - [DSLFoundry](http://dslfoundry.com/) - DSLFoundry blog: howtos and articles about practical MPS usage.
+- [F1RE](https://www.f1re.io/) - A blog focus on the model driven software engineering domain.
 - [languageengineering.io](https://languageengineering.io) - A blog focused in language engineering with many examples implemented using MPS.
 - [log verbose](https://blog.logv.ws/tag/mps/) - The repositor owner's own blog posts on MPS.
 - [Official Website](https://www.jetbrains.com/mps/)
