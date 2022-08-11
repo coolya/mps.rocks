@@ -48,6 +48,7 @@ Plugins that improve MPS.
 - [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x) - This plugin helps to learn essential shortcuts while you are working.
 - [langdoc](https://plugins.jetbrains.com/plugin/12325-langdoc) - This plugin allows arbitrary nodes in your models to be annotated with documentation text.
 - [Language visualizer](https://jetbrains.github.io/MPS-extensions/extensions/langvis) - A JetBrains MPS plugin to visualize the structure of a language.
+- [Mario Progress Bar](https://plugins.jetbrains.com/plugin/14708-mario-progress-bar) - Pretty progress bars for IJ based IDEs.
 - [MPS BaseLanguage Extensions](https://plugins.jetbrains.com/plugin/7101-mps-baselanguage-extensions) - A set of handy extensions to BaseLanguage, such as tail recursion optimization and function memoization
 - [mps-code-reviewer](https://github.com/Workday/mps-code-reviewer) - Code Review for JetBrains MPS providing integration with Bitbucket
 - [MPS Extensions](https://github.com/JetBrains/MPS-extensions) - Various extensions to simplify language development.
