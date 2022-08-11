@@ -54,6 +54,7 @@ Plugins that improve MPS.
 - [MPS gradle plugin](https://github.com/mbeddr/mps-gradle-plugin) - A Gradle plugin to build & test langauges and to support various tasks related to custom RCP packaging.
 - [MPS-QA](https://github.com/mbeddr/mps-qa) - This repository contains quality assurance tooling for Jetbrains' MPS.
 - [Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar) - Pretty progress bars for IJ based IDEs.
+- [Presentation Assistant](https://plugins.jetbrains.com/plugin/7345-presentation-assistant) - This plugin shows name and Win/Mac shortcuts of any action you invoke.
 - [Projector](https://plugins.jetbrains.com/plugin/16015-projector) - Share the IDE window using the Projector server.
 - [Shadow Models](https://voelter.de/data/pub/SLE2019.pdf) - Shadow Models is an incremental transformation framework
 for MPS.
