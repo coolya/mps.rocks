@@ -42,8 +42,10 @@ Plugins that improve MPS.
 - [digitalember.extensions](https://github.com/digital-ember/digitalember.extensions) - MPS baseLanguage editor extensions for better readability.
 - [Durchblick](https://github.com/coolya/Durchblick) - Simplified editors to increase readability of generators.
 - [Editor2PDF](https://github.com/CampagneLaboratory/Editor2PDF) - Serialises editor into PDF files
+- [Fernsprecher](https://plugins.jetbrains.com/plugin/15633-fernsprecher) - View your IntelliJ based IDE logs directly in your browser.
 - [Grammar Cells](http://mbeddr.com/files/gc-sle.pdf) - An extension to the editor language of MPS. It will help you to create consistent and well-behaving textual notations in MPS with no effort.
 - [ingrid](https://github.com/premun/ingrid) - Ingrid is a plugin for JetBrains MPS allowing import of ANTLRv4 grammars and create an MPS language out of it.
+- [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x) - This plugin helps to learn essential shortcuts while you are working.
 - [langdoc](https://plugins.jetbrains.com/plugin/12325-langdoc) - This plugin allows arbitrary nodes in your models to be annotated with documentation text.
 - [Language visualizer](https://jetbrains.github.io/MPS-extensions/extensions/langvis) - A JetBrains MPS plugin to visualize the structure of a language.
 - [MPS BaseLanguage Extensions](https://plugins.jetbrains.com/plugin/7101-mps-baselanguage-extensions) - A set of handy extensions to BaseLanguage, such as tail recursion optimization and function memoization
