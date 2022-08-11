@@ -79,10 +79,10 @@ Individual languages.
 - [DclareForMPS](https://github.com/ModelingValueGroup/DclareForMPS) - Support for the dclare engine in MPS.
 - [D-Flat](https://github.com/DSLFoundry/mps-dflat) - C# language implementation prototype for JetBrains MPS.
 - [ecmascript4mps](https://github.com/mar9000/ecmascript4mps) - ECMAScript language implementation for JetBrains MPS.
+- [FormatsDSL](https://github.com/ftomassetti/FormatsDSL) - A DSL to describe formats and generate loaders.
 - [mbeddr.cpp](https://github.com/DSLFoundry/mbeddr.cpp) - C++ language implementation prototype for JetBrains MPS, built as an extension on mbeddr.core (C language).
 - [MPS JSON Language](https://github.com/nkoester/mps-json) - A JSON implementation for MPS.
 - [PlantUML](https://github.com/vjramirez/PlantUML) - Language for PlantUML models, also useful to generate PlantUML diagrams from custom DSL.
-- [FormatsDSL](https://github.com/ftomassetti/FormatsDSL) - A DSL to describe formats and generate loaders.
 - [iets3](https://github.com/iets3/iets3.opensource) - Base language for system modelling and specification including basics abstractions for  components, expression, variability, etc.
 - [Physics](https://github.com/vaclav/Physics) - A physical simulation description language built with MPS.
 - [Voice Menu](https://github.com/vaclav/voicemenu) - A voice menu language and a Java simulator built using JetBrains MPS.
