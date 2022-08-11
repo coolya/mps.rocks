@@ -91,7 +91,7 @@ Individual languages.
 
 - [Modelix](https://modelix.github.io/) - Modelix is a open source platform that aims to bring modeling on the web.
 - [MPS CodeRules](https://jetbrains.github.io/mps-coderules/about) - New typesystem from JetBrains for MPS. Uses logic programming.
-- [MPSGotchas](https://alexanderpann.github.io/mps-gotchas/) - A website that answers some common questions about MPS and shows common gotchas and pitfalls.
+- [MPS Platform Docs](http://mbeddr.com/mps-platform-docs/) - This website collects practical knowledge about MPS and popular MPS platforms.
 - [MPSServer](https://github.com/strumenta/mpsserver) - A tool to make MPS accessible remotely.
 - [mpsZooKeeper.sh](https://github.com/nkoester/mps-zookeeper) - Helper script to generate an isolated configuration prefix for isolated MPS instances.
 - [Skadi Cloud](https://skadi.cloud/) - An experiment with Projector to put JetBrains MPS into the browser.
@@ -105,9 +105,11 @@ Individual languages.
 - [Creating a simple language using JetBrains MPS](https://dev.to/antoine/creating-a-simple-language-using-jetbrains-mps-c7d) - The objective of this project is to construct a language to define mindmaps.
 - [Fast track tutorial](https://www.jetbrains.com/help/mps/fast-track-to-mps.html) is the official tutorial for MPS. It will provide you with an high-level overview in 10 steps, covering all aspects of MPS at a high level.
 - [HeayMeta.tv](https://heavymeta.tv) - A complete MPS tutorial to build your first language by @coolya with lots background information on language design.
+- [Learn MPS](https://www.jetbrains.com/mps/learn/) - Browse top resources, improve your MPS skills, and connect with the community.
 - [MPS for the Impatient](https://stepik.org/course/71593/) is a free hands-on course that covers the basics of JetBrains MPS from the language designer's perspective, skipping the theoretical topics as well as the practical productivity how-tos.
 - [MPS Intro Course by @markusvoelter](https://github.com/markusvoelter/mpsintrocourse) - A slightly advanced introduction to MPS wiht a focus on language extension.
 - [MPS Office Hours](https://specificlanguages.com/mps-office-hours/) - A weekly one-hour Zoom meeting where you can share your screen and get help.
+- [MPS tutorials](https://www.jetbrains.com/help/mps/mps-tutorials.html) - Official tutorials and cookbooks for MPS.
 
 ### [Books and User Guides](#Guides)
 - [Deployment options for MPS](https://www.itemis.com/en/it-services/methods-and-tools/dsls-mps-deployment-options)
