@@ -122,6 +122,10 @@ Individual languages.
 
 ## [Community](#community)
 
+### [Medium](#medium)
+
+- [JetBrains MPS related stories](https://medium.com/search?q=Jetbrains+mps)
+
 ### [Twitter](#twitter)
 
 - [JetBrains MPS](https://twitter.com/jetbrains_mps)
