@@ -111,6 +111,7 @@ Individual languages.
 - [Fast track tutorial](https://www.jetbrains.com/help/mps/fast-track-to-mps.html) is the official tutorial for MPS. It will provide you with an high-level overview in 10 steps, covering all aspects of MPS at a high level.
 - [HeayMeta.tv](https://heavymeta.tv) - A complete MPS tutorial to build your first language by @coolya with lots background information on language design.
 - [MPS for the Impatient](https://stepik.org/course/71593/) is a free hands-on course that covers the basics of JetBrains MPS from the language designer's perspective, skipping the theoretical topics as well as the practical productivity how-tos.
+- [mps-tips](https://neumantm.github.io/mps-tips/) - Collection of tips and tricks about the MPS ecosystem which might be useful to someone.
 - [MPS tutorials](https://www.jetbrains.com/help/mps/mps-tutorials.html) - Official tutorials and cookbooks for MPS.
 - [MPS Intro Course by @markusvoelter](https://github.com/markusvoelter/mpsintrocourse) - A slightly advanced introduction to MPS wiht a focus on language extension.
 - [MPS Office Hours](https://specificlanguages.com/mps-office-hours/) - A weekly one-hour Zoom meeting where you can share your screen and get help.
