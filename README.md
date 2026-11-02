@@ -97,6 +97,7 @@ Individual languages.
 - [Modelix](https://modelix.github.io/) - Modelix is a open source platform that aims to bring modeling on the web.
 - [MPS CodeRules](https://jetbrains.github.io/mps-coderules/about) - New typesystem from JetBrains for MPS. Uses logic programming.
 - [MPS Platform Docs](http://mbeddr.com/mps-platform-docs/) - This website collects practical knowledge about MPS and popular MPS platforms.
+- [MPS Libraries](https://nkoester.github.io/mps-libraries-latest-version-finder/) - Latest Version Finder
 - [MPSServer](https://github.com/strumenta/mpsserver) - A tool to make MPS accessible remotely.
 - [mpsZooKeeper.sh](https://github.com/nkoester/mps-zookeeper) - Helper script to generate an isolated configuration prefix for isolated MPS instances.
 - [Skadi Cloud](https://skadi.cloud/) - An experiment with Projector to put JetBrains MPS into the browser.
